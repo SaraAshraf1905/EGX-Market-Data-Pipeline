@@ -1,0 +1,28 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets and environment variables
+.env
+.env.*
+
+# Raw and processed datasets
+data/raw/
+data/processed/
+*.parquet
+*.duckdb
+*.db
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
