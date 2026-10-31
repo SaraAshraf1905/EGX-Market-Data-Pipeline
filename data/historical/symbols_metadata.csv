@@ -1,0 +1,269 @@
+symbol,description,isin,type,typespecs,currency,is_primary,exchange,country,logoid,found_by_isin,provider
+AALR,General Co. for Land Reclamation Development & Reconstruction,EGS01081C016,stock,common,EGP,True,EGX,EG,general-company-for-land-reclamationdevelopment-and-reconstru,False,ice
+ABUK,Abou Kir Fertilizers & Chemical Industries Co.,EGS38191C010,stock,common,EGP,True,EGX,EG,abou-kir-fertilizers,False,ice
+ACAMD,Arab Co. for Asset Management & Development,EGS72AQ1C016,stock,common,EGP,True,EGX,EG,arab-co-for-asset-management-and-development,False,ice
+ACAP,A Capital Holding,EGS697S1C015,stock,common,EGP,True,EGX,EG,a-capital,False,ice
+ACGC,Arab Cotton Ginning Co.,EGS32221C011,stock,common,EGP,True,EGX,EG,arab-cotton-ginning,False,ice
+ACRO,Acrow Misr,EGS3E071C013,stock,common,EGP,True,EGX,EG,acrow-misr,False,ice
+ACTF,Act Financial,EGS7D5P1C019,stock,common,EGP,True,EGX,EG,act-financial,False,ice
+ADCI,Arab Pharmaceuticals,EGS38321C013,stock,common,EGP,True,EGX,EG,arab-pharmaceuticals,False,ice
+ADIB,Abu Dhabi Islamic Bank-Egypt,EGS60111C019,stock,common,EGP,True,EGX,EG,abu-dhabi-islamic-bank-egypt,False,ice
+ADPC,Arab Dairy Products Co. Arab Dairy - Panda,EGS30221C013,stock,common,EGP,True,EGX,EG,the-arab-dairy-products-co-arab-dairy-panda,False,ice
+ADRI,Arab Development & Real Estate Investment,EGS65AN1C018,stock,common,EGP,True,EGX,EG,arab-development-and-real-estate-investment,False,ice
+AFDI,Alahly For Development & Investment,EGS69021C011,stock,common,EGP,True,EGX,EG,el-ahli-investment-and-development,False,ice
+AFMC,Alexandria Flour Mills Co.,EGS30471C014,stock,common,EGP,True,EGX,EG,alexandria-flour-mills,False,ice
+AIDC,Arabia for Investment and Development,EGS65R01C015,stock,common,EGP,True,EGX,EG,arabia-for-investment-and-development,False,ice
+AIFI,Atlas for Investment & Food Industries SAE,EGS071L1C018,stock,common,EGP,True,EGX,EG,atlas-for-investment-and-food-industries,False,ice
+AIH,Arabia Investments Holding SAE,EGS21351C019,stock,common,EGP,True,EGX,EG,arabia-investments,False,ice
+AJWA,Ajwa for Food Industries Co. Egypt,EGS30211C014,stock,common,EGP,True,EGX,EG,ajwa-for-food-industries-company-egypt,False,ice
+ALCN,Alexandria Containers & Goods,EGS42111C012,stock,common,EGP,True,EGX,EG,alexandria-containers-and-goods,False,ice
+ALEX,Alexandria Cement Co.,EGS3H051C012,stock,common,EGP,True,EGX,EG,alexandria-cement-co,False,ice
+ALUM,Arab Aluminum Co. SAE,EGS3D031C018,stock,common,EGP,True,EGX,EG,arab-aluminum,False,ice
+AMER,Amer Group Holding,EGS675S1C011,stock,common,EGP,True,EGX,EG,amer,False,ice
+AMES,Alexandria New Medical Center Co.,EGS72081C010,stock,common,EGP,True,EGX,EG,alexandria-new-medical-center,False,ice
+AMIA,Arab Moltaqa Investments Company,EGS67221C019,stock,common,EGP,True,EGX,EG,arab-moltaka-investments-co,False,ice
+AMII,Arabian Metal Industries and Industrial Investments,EGS3E1E1C013,stock,common,EGP,True,EGX,EG,arab-valves-company,False,ice
+AMOC,Alexandria Mineral Oils Co.,EGS380P1C010,stock,common,EGP,True,EGX,EG,alexandria-mineral-oils-company,False,ice
+AMPI,AL Moasher Pay for Electronic Payment and Collection (S.A.E),EGS745W1C011,stock,common,EGP,True,EGX,EG,al-moasher-for-programming-and-information-dissemination,False,ice
+APPC,Advanced Pharmaceutical Packaging Co.,EGS38461C017,stock,common,EGP,True,EGX,EG,advanced-pharmaceutical-packaging-co,False,ice
+APSW,Arab Polvara Spinning & Weaving Co.,EGS32331C018,stock,common,EGP,True,EGX,EG,arab-polvara-spinning-and-weaving-co,False,ice
+ARAB,Arab Developers Holding,EGS694A1C018,stock,common,EGP,True,EGX,EG,arab-developers,False,ice
+ARCC,Arabian Cement Company,EGS3C0O1C016,stock,common,EGP,True,EGX,EG,arabian-cement-company,False,ice
+AREH,Egyptian Real Estate Group,EGS65211C012,stock,common,EGP,True,EGX,EG,egyptian-real-estate,False,ice
+ASCM,ASEC Co. for Mining,EGS10001C013,stock,common,EGP,True,EGX,EG,asek-company-for-mining-ascom,False,ice
+ASPI,Aspire Capital Holding for Financial Investments,EGS691L1C018,stock,common,EGP,True,EGX,EG,aspire-capital-for-financial-investments,False,ice
+ATLC,Al Tawfeek Leasing Company-A.T.LEASE,EGS676N1C015,stock,common,EGP,True,EGX,EG,rights-issue-of-al-tawfeek-leasing-company-atlease-1,False,ice
+ATQA,Misr National Steel,EGS3D0C1C018,stock,common,EGP,True,EGX,EG,misr-national-steel-ataqa,False,ice
+AXPH,Alexandria Company for Pharmaceuticals and Chemical Industries,EGS38341C011,stock,common,EGP,True,EGX,EG,alexandria-pharmaceuticals,False,ice
+BIDI,El Badr Investment and Development - BID,EGS3A2Z1C015,stock,common,EGP,True,EGX,EG,el-badr-investment-and-development-bid,False,ice
+BIGP,ElBarbary Investment Group,EGS551D1C017,stock,common,EGP,True,EGX,EG,barbary-investment-big,False,ice
+BINV,B Investments Holding SAE,EGS691T1C010,stock,common,EGP,True,EGX,EG,b-investments,False,ice
+BIOC,GlaxoSmithKline S.A.E.,EGS38171C012,stock,common,EGP,True,EGX,EG,glaxosmithkline,False,ice
+BONY,Bonyan for Development and Trade,EGS656M1C010,stock,common,EGP,True,EGX,EG,bonyan-for-development-and-trade,False,ice
+BTFH,Beltone Holding,EGS691G1C015,stock,common,EGP,True,EGX,EG,belton-financial,False,ice
+CAED,Cairo Educational Services,EGS72201C014,stock,common,EGP,True,EGX,EG,cairo-educational-services,False,ice
+CANA,Suez Canal Bank SAE,EGS60231C015,stock,common,EGP,True,EGX,EG,suez-canal-bank-sae,False,ice
+CCAP,QALA For Financial Investments,EGS73541C012,stock,common,EGP,True,EGX,EG,citadel-capital-common-shares,False,ice
+CCRS,Gulf Canadian Real Estate Investment Co.,EGS651B1C018,stock,common,EGP,True,EGX,EG,gulf-canadian-real-estate-investment-co,False,ice
+CEFM,Middle Egypt Flour Mills,EGS30401C011,stock,common,EGP,True,EGX,EG,middle-egypt-flour-mills,False,ice
+CERA,Arab Ceramic Co. - Ceramica Remas,EGS3C151C015,stock,common,EGP,True,EGX,EG,the-arab-ceramic-co-ceramica-remas,False,ice
+CFGH,Concrete Fashion Group for Commercial and Industrial Investments S.A.E,EGS672I2C014,stock,common,USD,True,EGX,EG,al-arafa-for-investment-and-consultancies,False,ice
+CICH,CI Capital Holding for Financial Investments,EGS691D1C018,stock,common,EGP,True,EGX,EG,ci-capital-for-financial-investments,False,ice
+CIEB,Credit Agricole Egypt,EGS60041C018,stock,common,EGP,True,EGX,EG,credit-agricole-egypt,False,ice
+CIRA,Cairo For Investment And Real Estate Developments -CIRA Education,EGS65541C012,stock,common,EGP,True,EGX,EG,cairo-for-investment-and-real-estate-development,False,ice
+CLHO,Cleopatra Hospital Company,EGS729J1C018,stock,common,EGP,True,EGX,EG,cleopatra-hospital-company,False,ice
+CNFN,Contact Financial Holding SAE,EGS738I1C018,stock,common,EGP,True,EGX,EG,contact-financial,False,ice
+COMI,Commercial International Bank - Egypt (CIB) S.A.E.,EGS60121C018,stock,common,EGP,True,EGX,EG,commercial-international-bank-egypt,False,ice
+COPR,Cooper for Commercial Investment & Real Estate Development,EGS65511C015,stock,common,EGP,True,EGX,EG,national-real-estate-bank-for-development,False,ice
+COSG,Cairo Oils & Soap,EGS30581C010,stock,common,EGP,True,EGX,EG,cairo-oils-and-soap,False,ice
+CPCI,Kahira Pharmaceuticals & Chemical Industries Co.,EGS38391C016,stock,common,EGP,True,EGX,EG,cairo-pharmaceuticals,False,ice
+CPME,Catalyst Partners Middle East,EGS698X1C017,stock,common,EGP,True,EGX,EG,catalyst-parteners-middle-east-cpme,False,ice
+CRST,Creast Mark For Contracting And Real Estate Development,EGS23141C012,stock,common,EGP,True,EGX,EG,the-egyptian-company-for-construction-development-lift-slab,False,ice
+CSAG,Canal Shipping Agencies Co.,EGS44031C010,stock,common,EGP,True,EGX,EG,canal-shipping-agencies,False,ice
+DAPH,Development & Engineering Consultants,EGS65081C019,stock,common,EGP,True,EGX,EG,development-and-engineering-consultants,False,ice
+DCRC,Delta Construction & Rebuilding Co.,EGS21451C017,stock,common,EGP,True,EGX,EG,delta-construction-and-rebuilding,False,ice
+DGTZ,Digitize for Investment And Technology,EGS74F71C015,stock,common,EGP,True,EGX,EG,digitize-for-investment-and-technology,False,ice
+DOMT,Arabian Food Industries Co.,EGS30031C016,stock,common,EGP,True,EGX,EG,arabian-food-industries-domty,False,ice
+DSCW,Dice Sports & Casual Wear Manufacturers SAE,EGS33321C018,stock,common,EGP,True,EGX,EG,dice-sport-and-casual-wear,False,ice
+DTPP,Delta for Printing & Packaging,EGS370W1C013,stock,common,EGP,True,EGX,EG,delta-for-printing-and-packaging,False,ice
+EALR,El Arabia for Land Reclamation,EGS65771C015,stock,common,EGP,True,EGX,EG,el-arabia-for-land-reclamation,False,ice
+EASB,Egyptian Arabian Company for Securities Brokerage EAC,EGS681D1C010,stock,common,EGP,True,EGX,EG,egyptian-arabian-themar-comp-for-securitiesandbonds-brok-eac,False,ice
+EAST,Eastern Company,EGS37091C013,stock,common,EGP,True,EGX,EG,eastern-company,False,ice
+EBSC,Osool ESB Securities Brokerage,EGS68181C014,stock,common,EGP,True,EGX,EG,osool-esb-securities-brokerage,False,ice
+ECAP,El Ezz Ceramics & Porcelain Co. (Gemma),EGS3C071C015,stock,common,EGP,True,EGX,EG,el-ezz-porcelain-gemma,False,ice
+EDFM,East Delta Flour Mills Co.,EGS30351C018,stock,common,EGP,True,EGX,EG,east-delta-flour-mills,False,ice
+EEII,El Arabia Engineering Industries,EGS3G111C015,stock,common,EGP,True,EGX,EG,el-arabia-engineering-industries,False,ice
+EFIC,Egyptian Financial & Industrial Co.,EGS38381C017,stock,common,EGP,True,EGX,EG,egyptian-financial-and-industrial,False,ice
+EFID,Edita Food Industries SAE,EGS305I1C011,stock,common,EGP,True,EGX,EG,edita-food-industries-sae,False,ice
+EFIH,e-finance for Digital and Financial Investments S.A.E.,EGS743O1C013,stock,common,EGP,True,EGX,EG,e-finance-for-digital-and-financial-investments,False,ice
+EGAL,Egypt Aluminum,EGS3E181C010,stock,common,EGP,True,EGX,EG,egypt-aluminum,False,ice
+EGAS,Egypt Gas Co.,EGS39011C019,stock,common,EGP,True,EGX,EG,natural-gas-and-mining-project-egypt-gas,False,ice
+EGBE,Egyptian Gulf Bank,EGS60182C010,stock,common,USD,True,EGX,EG,egyptian-gulf-bank,False,ice
+EGCH,Egyptian Chemical Industries,EGS38201C017,stock,common,EGP,True,EGX,EG,egyptian-chemical-industries-kima,False,ice
+EGREF,Egyptians Real Estate Fund,EGS694B1C017,stock,common,EGP,True,EGX,EG,egyptians-real-estate-fund-certificates,False,ice
+EGS30AJ1C016-EGP,International Dry Ice Co.,EGS30AJ1C016,stock,common,EGP,True,EGX,EG,international-dry-ice-co,False,ice
+EGS370O1C013,National Printing,EGS370O1C013,stock,common,EGP,True,EGX,EG,national-printing,True,ice
+EGS3I0S1C019,Future Care For Medical Industries,EGS3I0S1C019,stock,common,EGP,True,EGX,EG,international-company-for-medical-industries-icmi,True,ice
+EGS48271C018-EGP,Egypt - South Africa for Communication,EGS48271C018,stock,common,EGP,,EGX,EG,egypt-south-africa-for-communication,False,ice
+EGSA,Egyptian Satellite Co.,EGS48022C015,stock,common,USD,True,EGX,EG,egyptian-satellites-nilesat,False,ice
+EGTS,Egyptian for Tourism Resorts,EGS70431C019,stock,common,EGP,True,EGX,EG,egyptian-for-tourism-resorts,False,ice
+EHDR,Egyptians Housing Development & Reconstruction,EGS65341C017,stock,common,EGP,True,EGX,EG,egyptians-housing-development-and-reconstruction,False,ice
+EITP,Egyptian International Tourism Projects,EGS70011C019,stock,common,EGP,True,EGX,EG,egyptian-international-tourism-projects,False,ice
+EIUD,,,,,,,,,,,
+ELEC,Electro Cable Egypt,EGS3G231C011,stock,common,EGP,True,EGX,EG,electro-cable-egypt,False,ice
+ELKA,El Kahera Housing,EGS65071C010,stock,common,EGP,True,EGX,EG,el-kahera-housing,False,ice
+ELNA,El Nasr for Manufacturing Agricultural Crops,EGS300L1C011,stock,common,EGP,True,EGX,EG,el-nasr-for-manufacturing-agricultural-crops,False,ice
+ELSH,El-Shams Housing & Development SA,EGS65091C018,stock,common,EGP,True,EGX,EG,el-shams-housing-and-urbanization,False,ice
+ELWA,Elwadi for International Investment & Development,EGS70R91C016,stock,common,EGP,True,EGX,EG,el-wadi-for-international-and-investement-development,False,ice
+EMFD,Emaar Misr for Development SAE,EGS673Y1C015,stock,common,EGP,True,EGX,EG,emaar-misr-for-development,False,ice
+ENGC,Industrial Engineering Co. for Construction & Development,EGS3F021C017,stock,common,EGP,True,EGX,EG,engineering-industries-icon,False,ice
+EOSB,El Orouba Securities Brokerage,EGS681I1C015,stock,common,EGP,True,EGX,EG,el-orouba-securities-brokerage,False,ice
+EPCO,Egypt for Poultry Co.,EGS02211C018,stock,common,EGP,True,EGX,EG,egypt-for-poultry,False,ice
+EPPK,El Ahram Co. for Printing & Packing,EGS360A1C011,stock,common,EGP,True,EGX,EG,el-ahram-co-for-printing-and-packing,False,ice
+ETEL,Telecom Egypt,EGS48031C016,stock,common,EGP,True,EGX,EG,telecom-egypt,False,ice
+ETRS,Egyptian Transport And Commercial Services Co. (Egytrans Nosco),EGS42051C010,stock,common,EGP,True,EGX,EG,egyptian-transport-egytrans,False,ice
+EXPA,Export Development Bank of Egypt,EGS60241C014,stock,common,EGP,True,EGX,EG,export-development-bank-of-egypt-edbe,False,ice
+FAIT,Faisal Islamic Bank of Egypt,EGS60321C014,stock,common,EGP,True,EGX,EG,faisal-islamic-bank-of-egypt-in-egp,False,ice
+FAITA,Faisal Islamic Bank of Egypt,EGS60322C012,stock,common,USD,,EGX,EG,faisal-islamic-bank-of-egypt-in-egp,False,ice
+FCMD,,,,,,,,,,,
+FERC,Ferchem Misr Co. for Fertilizers & Chemicals,EGS385S1C012,stock,common,EGP,True,EGX,EG,ferchem-misr-co-for-fertillizers-and-chemicals,False,ice
+FIRE,First Investment & Real Estate Development,EGS65AL1C010,stock,common,EGP,True,EGX,EG,first-investment-company-and-real-estate-development,False,ice
+FNAR,Al Fanar Contracting Construction Trade Import & Export Co.,EGS221U1C016,stock,common,EGP,True,EGX,EG,al-fanar-contracting-construction-trade-import-and-export-co,False,ice
+FTNS,Fitness Prime,EGS774M1C017,stock,common,EGP,True,EGX,EG,fitness-prime,False,ice
+FWRY,Fawry For Banking Technology And Electronic Payment,EGS745L1C014,stock,common,EGP,True,EGX,EG,fawry-for-banking-technology-and-electronic-payment,False,ice
+GBCO,GB Corp,EGS673T1C012,stock,common,EGP,True,EGX,EG,gb-auto,False,ice
+GDWA,Gadwa For Industrial Development,EGS3JM11C012,stock,common,EGP,True,EGX,EG,gadwa-for-industrial-development,False,ice
+GGCC,Giza General Contracting & Real Estate Investment,EGS21541C015,stock,common,EGP,True,EGX,EG,giza-general-contracting,False,ice
+GGRN,Gogreen for Agricultural Investment and Development Company,EGS07DR1C012,stock,common,EGP,True,EGX,EG,gogreen-for-agricultural-investment,False,ice
+GIHD,Gharbia Islamic Housing Development,EGS65461C013,stock,common,EGP,True,EGX,EG,gharbia-islamic-housing-development,False,ice
+GMCI,GMC Group for Industrial Commercial & Financial Investments,EGS46051C016,stock,common,EGP,True,EGX,EG,gmc-for-industrial-commercial-and-financial-investments,False,ice
+GOUR,Gourmet Egypt.Com Foods,EGS540S1C014,stock,common,EGP,True,EGX,EG,gourmet-egyptcom-foods,False,ice
+GPIM,GPI For Urban Growth,EGS213S1C010,stock,common,EGP,True,EGX,EG,egyptians-for-investment-and-urban-development,False,ice
+GRCA,Grand Investment Capital,EGS69261C013,stock,common,EGP,True,EGX,EG,grand-investment-capital,False,ice
+GSSC,General Silos & Storage Co.,EGS30441C017,stock,common,EGP,True,EGX,EG,general-silos-and-storage,False,ice
+GTEX,G-TEX for Commercial and Industrial Investments S.A.E,EGS59U92C011,stock,common,USD,True,EGX,EG,gtex-for-commercial-and-industrial,False,ice
+GTHE,Global Telecom Holding S.A.E.,EGS74081C018,stock,common,EGP,True,EGX,EG,global-telecom-sae,False,ice
+GTWL,Golden Textiles & Clothes Wool,EGS32161C019,stock,common,EGP,True,EGX,EG,golden-textiles-and-clothes-wool,False,ice
+HBCO,Heibco for Commercial Investments & Real Estate Development,EGS23OD1C015,stock,common,EGP,True,EGX,EG,heibco-for-commercial-investments-and-real-estate-development,False,ice
+HDBK,Housing & Development Bank,EGS60301C016,stock,common,EGP,True,EGX,EG,housing-and-development-bank,False,ice
+HELI,Heliopolis Housing,EGS65591C017,stock,common,EGP,True,EGX,EG,heliopolis-housing,False,ice
+HRHO,EFG Holding S.A.E.,EGS69101C011,stock,common,EGP,True,EGX,EG,egyptian-financial-hermes-company,False,ice
+IBCT,International Business Corp. for Trading & Agencies,EGS550K1C019,stock,common,EGP,True,EGX,EG,international-business-for-trading-and-agencies,False,ice
+ICFC,International Co. for Fertilizers & Chemicals,EGS520D1C015,stock,common,EGP,True,EGX,EG,international-company-for-fertilizers-and-chemicals,False,ice
+ICID,International Company for Investment & Development,EGS67191C014,stock,common,EGP,True,EGX,EG,international-co-for-investment-and-development,False,ice
+IDRE,Ismailia Development & Real Estate Co.,EGS214Q1C011,stock,common,EGP,True,EGX,EG,ismailia-development-and-real-estate-co,False,ice
+IEEC,Industrial & Engineering Enterprises Co.,EGS22171C010,stock,common,EGP,True,EGX,EG,industrial-and-engineering-enterprises-co,False,ice
+IFAP,International Agricultural Products,EGS07061C012,stock,common,EGP,True,EGX,EG,international-agricultural-products,False,ice
+INEG,Integrated Engineering Group S.A.E,EGS3E3B1C014,stock,common,EGP,True,EGX,EG,integrated-engineering-sae,False,ice
+INFI,Ismailia National Food Industries,EGS01041C010,stock,common,EGP,True,EGX,EG,ismailia-national-food-industries,False,ice
+IRAX,El Ezz Aldekhela Steel-Alexandria,EGS3D041C017,stock,common,EGP,True,EGX,EG,ezz-steel,False,ice
+IRON,Egyptian Iron & Steel,EGS3D061C015,stock,common,EGP,True,EGX,EG,egyptian-iron-and-steel,False,ice
+ISMA,Ismailia Misr Poultry,EGS02021C011,stock,common,EGP,True,EGX,EG,ismailia-misr-poultry,False,ice
+ISMQ,Iron & Steel for Mines & Quarries,EGS102S1C014,stock,common,EGP,True,EGX,EG,iron-and-steel-for-mines-and-quarries,False,ice
+ISPH,Ibnsina Pharma,EGS512O1C012,stock,common,EGP,True,EGX,EG,ibnsina-pharma,False,ice
+JUFO,Juhayna Food Industries,EGS30901C010,stock,common,EGP,True,EGX,EG,juhayna-food-industries,False,ice
+KABO,El Nasr Clothing & Textiles Co.,EGS33061C010,stock,common,EGP,True,EGX,EG,el-nasr-clothes-and-textiles-kabo,False,ice
+KORA,KORRA,EGS07911C018,stock,common,EGP,True,EGX,EG,korra,False,ice
+KRDI,Al Khair River for Development Agriculture Investment and Environmental Services,EGS02291C010,stock,common,EGP,True,EGX,EG,al-khair-river-for-development-agricultural-investmentandenvir,False,ice
+KWIN,El Kahera El Watania Investment,EGS69011C012,stock,common,EGP,True,EGX,EG,el-kahera-el-watania-investment,False,ice
+KZPC,Kafr El Zayat Pesticides & Chemical Co.,EGS38411C012,stock,common,EGP,True,EGX,EG,kafr-el-zayat-pesticides,False,ice
+LCSW,Lecico Egypt SAE,EGS3C161C014,stock,common,EGP,True,EGX,EG,lecico-egypt,False,ice
+LKGP,The Holding Company for Financial Investment - The Lakah Group,EGS69071C016,stock,common,EGP,True,EGX,EG,the-company-for-financial-investment-the-lakah,False,ice
+LUTS,Lotus For Agricultural Investments And Development,EGS07661C019,stock,common,EGP,True,EGX,EG,lotus-for-agricultural-investments-and-development,False,ice
+MAAL,Marseilla Al Masreia Al Khalegeya for Holding Investment,EGS739Z1C016,stock,common,EGP,True,EGX,EG,marseille-almasreia-alkhalegeya-for-investment,False,ice
+MASR,Madinet Masr for Housing & Development,EGS65571C019,stock,common,EGP,True,EGX,EG,medinet-nasr-housing,False,ice
+MBEG,MB for Engineering & Contracting,EGS221V1C015,stock,common,EGP,True,EGX,EG,mb-engineering,False,ice
+MBSC,Misr Beni Suef Cement Co. SAE,EGS3C371C019,stock,common,EGP,True,EGX,EG,misr-beni-suef-cement,False,ice
+MCQE,Misr Cement Co. (Qena),EGS3C391C017,stock,common,EGP,True,EGX,EG,misr-cement-qena,False,ice
+MCRO,Macro Group Pharmaceutical S.A.E.,EGS7D971C011,stock,common,EGP,True,EGX,EG,macro-pharmaceuticals-macro-capital,False,ice
+MENA,Mena Touristic & Real Estate Investment,EGS65441C015,stock,common,EGP,True,EGX,EG,mena-touristic-and-real-estate-investment,False,ice
+MEPA,Medical Packaging Company,EGS3C4L1C015,stock,common,EGP,True,EGX,EG,medical-packaging-company,False,ice
+MFPC,Misr Fertilizers Production Company MOPCO,EGS39061C014,stock,common,EGP,True,EGX,EG,misr-fretilizers-production-company-mopco,False,ice
+MFSC,Misr Duty Free Shops Co.,EGS53051C016,stock,common,EGP,True,EGX,EG,misr-duty-free-shops,False,ice
+MHOT,Misr Hotels Co.,EGS70081C012,stock,common,EGP,True,EGX,EG,misr-hotels,False,ice
+MICH,Misr Chemical Industries Ltd.,EGS38211C016,stock,common,EGP,True,EGX,EG,misr-chemical-industries,False,ice
+MILS,North Cairo Mills Co.,EGS30361C017,stock,common,EGP,True,EGX,EG,north-cairo-mills,False,ice
+MIPH,Minapharm Pharmaceuticals,EGS380G1C011,stock,common,EGP,True,EGX,EG,minapharm-pharmaceuticals,False,ice
+MISR,MISR Intercontinental for Granite & Marble,EGS3C4P1C011,stock,common,EGP,True,EGX,EG,misr-intercontinental-for-granite-and-marble-egy-ston,False,ice
+MKIT,,,,,,,,,,,
+MMAT,Marsa Marsa Alam for Tourism Development,EGS70P91C010,stock,common,EGP,True,EGX,EG,marsa-marsa-alam-for-tourism-development,False,ice
+MOED,Egyptian Modern Education Systems,EGS729F1C012,stock,common,EGP,True,EGX,EG,the-egyptian-modern-education-systems,False,ice
+MOIL,Maridive & Oil Services SAE,EGS44012C010,stock,common,USD,True,EGX,EG,maridive-and-oil-services,False,ice
+MOIN,Mohandes Insurance Co.,EGS63041C015,stock,common,EGP,True,EGX,EG,mohandes-insurance,False,ice
+MOSC,Misr Oils & Soap Co.,EGS38421C011,stock,common,EGP,True,EGX,EG,misr-oils-and-soap,False,ice
+MPCI,Memphis Pharmaceutical & Chemical Industries,EGS38351C010,stock,common,EGP,True,EGX,EG,memphis-pharmaceuticals,False,ice
+MPCO,Mansourah Poultry Co.,EGS02091C014,stock,common,EGP,True,EGX,EG,mansourah-poultry,False,ice
+MPRC,Egyptian Media Production City,EGS78021C010,stock,common,EGP,True,EGX,EG,egyptian-media-production-city,False,ice
+MTIE,MM Group for Industry & International Trade,EGS75011C014,stock,common,EGP,True,EGX,EG,mm-for-industry-and-international-trade,False,ice
+NAHO,Naeem Holding Co.,EGS69182C011,stock,common,USD,True,EGX,EG,naeem,False,ice
+NARE,Naeem Real Estate Holding Group,EGS69191C012,stock,common,EGP,True,EGX,EG,reacap-financial-investments,False,ice
+NBKE,National Bank of Kuwait - Egypt,EGS60171C013,stock,common,EGP,True,EGX,EG,national-bank-of-kuwait,False,ice
+NCCW,Nasr Co. for Civil Works,EGS23111C015,stock,common,EGP,True,EGX,EG,nasr-company-for-civil-works,False,ice
+NCGC,Nile Cotton Ginning,EGS32131C012,stock,common,EGP,True,EGX,EG,nile-cotton-ginning,False,ice
+NEDA,Northern Upper Egypt Development & Agricultural Production,EGS52041C018,stock,common,EGP,True,EGX,EG,northern-upper-egypt-development-and-agricultural-production,False,ice
+NHPS,National Housing for Professional Syndicates,EGS65131C012,stock,common,EGP,True,EGX,EG,national-housing-for-professional-syndicates,False,ice
+NINH,Nozha International Hospital,EGS72011C017,stock,common,EGP,True,EGX,EG,nozha-international-hospital,False,ice
+NIPH,El-Nile Co. for Pharmaceuticals & Chemical Industries,EGS38331C012,stock,common,EGP,True,EGX,EG,el-nile-co-for-pharmaceuticals-and-chemical-industries,False,ice
+OBRI,El Obour Real Estate Investment,EGS65551C011,stock,common,EGP,True,EGX,EG,el-obour-real-estate-investment,False,ice
+OCDI,Six of October Development & Investment (SODIC),EGS65851C015,stock,common,EGP,True,EGX,EG,six-of-october-development-and-investment-sodic,False,ice
+OCPH,October Pharma Co.,EGS380R1C018,stock,common,EGP,True,EGX,EG,october-pharma,False,ice
+ODIN,ODIN Investments,EGS67181C015,stock,common,EGP,True,EGX,EG,odin-investments,False,ice
+OFH,O B Financial Holding,EGS696S1C016,stock,common,EGP,True,EGX,EG,orascom-financial,False,ice
+OIH,Orascom Investment Holding SAE,EGS693V1C014,stock,common,EGP,True,EGX,EG,orascom-investment,False,ice
+OLFI,Obour Land for Food Industries,EGS30AL1C012,stock,common,EGP,True,EGX,EG,obour-land-for-food-industries,False,ice
+ORAS,Orascom Construction Plc,EGS95001C011,stock,common,EGP,True,EGX,EG,orascom-construction-plc,False,ice
+ORHD,Orascom Development Egypt (S.A.E),EGS70321C012,stock,common,EGP,True,EGX,EG,orascom-development-egypt,False,ice
+ORWE,Oriental Weavers Carpet,EGS33041C012,stock,common,EGP,True,EGX,EG,oriental-weavers,False,ice
+PACH,Paints & Chemical Industries Co.,EGS38311C014,stock,common,EGP,True,EGX,EG,paints-and-chemical-industries-company-sae-gdr-repr-1-3-shr-144a,False,ice
+PHAR,Egyptian International Pharmaceutical Industries Co.,EGS38081C013,stock,common,EGP,True,EGX,EG,egyptian-international-pharmaceuticals-eipico,False,ice
+PHDC,Palm Hills Development Co.,EGS655L1C012,stock,common,EGP,True,EGX,EG,palm-hills-development-company,False,ice
+PHGC,Premium Healthcare Group,EGS72XL1C014,stock,common,EGP,True,EGX,EG,rights-issue-of-premium-healthcare-1,False,ice
+PHTV,Pyramisa Hotels,EGS70331C011,stock,common,EGP,True,EGX,EG,pyramisa-hotels,False,ice
+POUL,Cairo Poultry Co.,EGS02051C018,stock,common,EGP,True,EGX,EG,cairo-poultry,False,ice
+PRCL,General Co. for Ceramic & Porcelain Products,EGS3C111C019,stock,common,EGP,True,EGX,EG,ceramic-and-porcelain,False,ice
+PRDC,Pioneers Properties for Urban Development,EGS21FW1C015,stock,common,EGP,True,EGX,EG,pioneers-properties-for-urban-development-predco,False,ice
+PRMH,Prime Holding,EGS691A1C011,stock,common,EGP,True,EGX,EG,prime,False,ice
+QNBE,Qatar National Bank,EGS60081C014,stock,common,EGP,True,EGX,EG,qatar-national-bank-alahly,False,ice
+RACC,Raya Contact Center,EGS74191C015,stock,common,EGP,True,EGX,EG,raya-contact-center,False,ice
+RAKT,Rakta Paper Manufacturing,EGS36021C011,stock,common,EGP,True,EGX,EG,rakta-paper-manufacturing,False,ice
+RAYA,Raya Holding for Financial Investments SAE,EGS690C1C010,stock,common,EGP,True,EGX,EG,raya-for-financial-investments,False,ice
+RKAZ,REKAZ Financial Holding,EGS521T1C016,stock,common,EGP,True,EGX,EG,port-saied-for-agricultural-development-and-construction,False,ice
+RMDA,Tenth of Ramadan Pharmaceutical Industries & Diagnostic-Rameda,EGS381B1C015,stock,common,EGP,True,EGX,EG,tenth-of-ramadan-pharmaceutical-industriesanddiagnostic-rameda,False,ice
+ROTO,Rowad Tourism (Al Rowad) Co,EGS70281C018,stock,common,EGP,True,EGX,EG,rowad-tourism-al-rowad,False,ice
+RREI,Arab Real Estate Investment Co.,EGS65011C016,stock,common,EGP,True,EGX,EG,arab-real-estate-investment-co-alico,False,ice
+RTVC,Remco for Touristic Villages Construction,EGS70271C019,stock,common,EGP,True,EGX,EG,remco-for-touristic-villages-construction,False,ice
+RUBX,Rubex International for Plastic & Acrylic Manufacturing,EGS3A221C018,stock,common,EGP,True,EGX,EG,rubex-international-for-plastic-and-acrylic-manufacturing,False,ice
+SAUD,Al Baraka Bank Egypt,EGS60101C010,stock,common,EGP,True,EGX,EG,al-baraka-bank-egypt,False,ice
+SCEM,Sinai Cement Co.,EGS3C401C014,stock,common,EGP,True,EGX,EG,sinai-cement,False,ice
+SCFM,South Cairo & Giza Mills & Bakeries,EGS30411C010,stock,common,EGP,True,EGX,EG,south-cairo-and-giza-mills-and-bakeries,False,ice
+SCTS,Sues Canal Co. for Technology Settling,EGS740C1C010,stock,common,EGP,True,EGX,EG,sues-canal-company-for-technology-settling,False,ice
+SDTI,Sharm Dreams Co. for Tourism Investment,EGS70571C012,stock,common,EGP,True,EGX,EG,sharm-dreams-co-for-tourism-investment,False,ice
+SEIG,Saudi Egyptian Investment & Finance Co. SAE,EGS67031C012,stock,common,EGP,True,EGX,EG,saudi-egyptian-investment-and-finance,False,ice
+SIPC,Sabaa International Company for Pharmaceutial and Chemical Industry,EGS382M1C011,stock,common,EGP,True,EGX,EG,sabaa-international-company-for-pharmaceutical-and-chemical,False,ice
+SKPC,Sidi Kerir Petrochemicals,EGS380S1C017,stock,common,EGP,True,EGX,EG,sidi-kerir-petrochemicals-sidpec,False,ice
+SMFR,Samad Misr-EGYFERT,EGS51191C012,stock,common,EGP,True,EGX,EG,samad-misr-egyfert,False,ice
+SMPP,Modern Shorouk Printing & Packaging,EGS3A0A1C016,stock,common,EGP,True,EGX,EG,modern-shorouk-printing-and-packaging,False,ice
+SNFC,Sharkia National Food,EGS30291C016,stock,common,EGP,True,EGX,EG,sharkia-national-food,False,ice
+SNFI,Souhag National Food Industries,EGS30301C013,stock,common,EGP,True,EGX,EG,souhag-national-food-industries,False,ice
+SPHT,El Shams Pyramids Co. for Hotels & Touristic Projects SAE,EGS70H02C014,stock,common,USD,True,EGX,EG,el-shams-pyramids-for-hotelsand-touristic-projects,False,ice
+SPIN,Alexandria Spinning & Weaving,EGS32041C013,stock,common,EGP,True,EGX,EG,alexandria-spinning-and-weaving-spinalex,False,ice
+SPMD,Speed Medical SAE,EGS73BR1C013,stock,common,EGP,True,EGX,EG,speed-medical,False,ice
+SUCE,Suez Cement Co.,EGS3C181C012,stock,common,EGP,,EGX,EG,suez-cement-co,False,ice
+SUGR,Delta Sugar,EGS30201C015,stock,common,EGP,True,EGX,EG,delta-sugar,False,ice
+SVCE,South Valley Cement Co.,EGS3C351C011,stock,common,EGP,True,EGX,EG,south-valley-cement,False,ice
+SWDY,El Sewedy Electric Company,EGS3G0Z1C014,stock,common,EGP,True,EGX,EG,elswedy-electric,False,ice
+TALM,Taaleem Management Services S.A.E,EGS597R1C017,stock,common,EGP,True,EGX,EG,taaleem-management-services,False,ice
+TANM,Tanmiya for Real Estate Investment,EGS21EB1C011,stock,common,EGP,True,EGX,EG,tanmiya-for-real-estate-investment,False,ice
+TAQA,TAQA Arabia,EGS490S1C014,stock,common,EGP,True,EGX,EG,taqa-arabia,False,ice
+TMGH,Talaat Moustafa Group Holding,EGS691S1C011,stock,common,EGP,True,EGX,EG,t-m-g,False,ice
+TORA,Tourah Cement Co,EGS3C311C015,stock,common,EGP,True,EGX,EG,tourah-cement-co,False,ice
+TRTO,TransOceans Tours,EGS79072C012,stock,common,USD,True,EGX,EG,transoceans-tours,False,ice
+TWSA,Tawasoa Factoring,EGS7D231C010,stock,common,EGP,True,EGX,EG,tawasoa-for-factoring,False,ice
+TYCN,Tycoon Holding Company For Financial Investments,EGS67331C016,stock,common,EGP,True,EGX,EG,alexandria-national-company-for-financial-investment,False,ice
+UBEE,United Bank SAE,EGS600M1C017,stock,common,EGP,True,EGX,EG,the-united-bank,False,ice
+UEFM,Upper Egypt Flour Mills Co.,EGS30451C016,stock,common,EGP,True,EGX,EG,upper-egypt-flour-mills,False,ice
+UEGC,El-Saeed Contracting & Real Estate Investment Co. SCCD,EGS21531C016,stock,common,EGP,True,EGX,EG,elsaeed-contractingand-real-estate-investment-company-sccd,False,ice
+UNIP,Universal Co. for Paper & Packaging Materials-Unipack,EGS38161C013,stock,common,EGP,True,EGX,EG,universal-for-paper-and-packaging-materials-unipack,False,ice
+UNIT,United Housing Construction SA,EGS65061C011,stock,common,EGP,True,EGX,EG,united-housing-and-development,False,ice
+UPMS,Union Pharmacist Company For Medical Services And Investment,EGS3I1D1C015,stock,common,EGP,True,EGX,EG,union-pharmacist-company-for-medical-services-and-investment,False,ice
+UTOP,Utopia Real Estate Investment & Tourism SAE,EGS655Y1C017,stock,common,EGP,True,EGX,EG,utopia,False,ice
+VALU,U Consumer Finance S.A.E,EGS505Z1C018,stock,common,EGP,True,EGX,EG,u-consumer-finance,False,ice
+VERT,Vertika for Industry & Trade,EGS74801C019,stock,common,EGP,True,EGX,EG,vertika-for-industry-and-trade,False,ice
+VLMR,Valmore Holding,EGS69082C013,stock,common,USD,True,EGX,EG,egyptian-kuwaiti,False,ice
+VLMRA,Valmore Holding,EGS69081C023,stock,common,EGP,,EGX,EG,egyptian-kuwaiti,False,ice
+WATP,Modern Co. for Water Proofing,EGS3J041C011,stock,common,EGP,,EGX,EG,modern-co-for-water-proofing,False,ice
+WCDF,Middle & West Delta Flour Mills Co.,EGS30421C019,stock,common,EGP,True,EGX,EG,middle-and-west-delta-flour-mills,False,ice
+WKOL,Wadi Kom Ombo Land Reclamation,EGS01071C017,stock,common,EGP,True,EGX,EG,wadi-kom-ombo-land-reclamation,False,ice
+ZEOT,Extracted Oils & Derivatives Co.,EGS38251C012,stock,common,EGP,True,EGX,EG,extracted-oils,False,ice
+ZMID,Zahraa Maadi Investment & Development,EGS21171C011,stock,common,EGP,True,EGX,EG,zahraa-maadi-investment-and-development,False,ice
+DEIN,Delta Insurance,EGS63031C016,stock,common,EGP,True,EGX,EG,delta-insurance,False,ice
+SAIB,Societe Arabe Internationale de Banque,EGS60142C014,stock,common,USD,True,EGX,EG,societe-arabe-internationale-de-banque-saib,False,ice
+GPPL,Golden Pyramids Plaza,EGS70342C018,stock,common,USD,True,EGX,EG,golden-pyramids-plaza,False,ice
+ICLE,International Co. for Leasing SAE,EGS67001C015,stock,common,EGP,True,EGX,EG,international-company-for-leasing-incolease,False,ice
+NDRL,National Drilling Co.,EGS735N2C012,stock,common,USD,True,EGX,EG,national-drilling,False,ice
+MEGM,Middle East Glass Manufacturing SAE,EGS3C001C012,stock,common,EGP,True,EGX,EG,middle-east-glass-manufacturing,False,ice
+CCAPP,QALA For Financial Investments Pref Registered Shs,EGS73541P048,stock,preferred,EGP,,EGX,EG,citadel-capital-common-shares,False,ice
+SEIGA,Saudi Egyptian Investment & Finance Co. SAE,EGS67032C010,stock,common,USD,,EGX,EG,saudi-egyptian-investment-and-finance,False,ice
+TOUR,Tourism Urbanization,EGS65021C015,stock,common,EGP,True,EGX,EG,,False,ice
+HALN,MNT Tech Holding For Financial Investments,EGS59231C018,stock,common,EGP,True,EGX,EG,,False,ice
+RMTV,Rowad Misr Tourism Investment,EGS70131C015,stock,common,EGP,True,EGX,EG,rowad-tourism-al-rowad,False,ice

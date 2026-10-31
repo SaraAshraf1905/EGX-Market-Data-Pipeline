@@ -1,0 +1,4943 @@
+[
+    {
+        "_id": "6ae62f41362665528dd0575d",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "AALR.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:13.064000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 208.1999969482422,
+                "High": 223.97999572753906,
+                "Low": 205.24000549316406,
+                "Close": 216.3300018310547,
+                "Volume": 70884,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f41362665528dd0575e",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "ABUK.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:13.353000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 91.2300033569336,
+                "High": 91.5999984741211,
+                "Low": 87.75,
+                "Close": 88.02999877929688,
+                "Volume": 2027083,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f41362665528dd0575f",
+        "symbol": "ACAMD.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:13.606000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 1.9299999475479126,
+                "High": 1.9500000476837158,
+                "Low": 1.909999966621399,
+                "Close": 1.940000057220459,
+                "Volume": 18230853,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f43362665528dd05760",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "ACGC.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:15.133000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 12.760000228881836,
+                "High": 13.300000190734863,
+                "Low": 12.720000267028809,
+                "Close": 13.300000190734863,
+                "Volume": 489953,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f46362665528dd05761",
+        "symbol": "ADCI.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:18.406000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 260.25,
+                "High": 278.5,
+                "Low": 267.1099853515625,
+                "Close": 271.17999267578125,
+                "Volume": 13101,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f46362665528dd05762",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "ADIB.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:18.703000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 45.61000061035156,
+                "High": 46.5,
+                "Low": 45.0,
+                "Close": 46.33000183105469,
+                "Volume": 808863,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f46362665528dd05763",
+        "symbol": "ADPC.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:18.949000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 2.8499999046325684,
+                "High": 3.0199999809265137,
+                "Low": 2.799999952316284,
+                "Close": 3.009999990463257,
+                "Volume": 3969639,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f48362665528dd05764",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "AFDI.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:20.039000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 42.88999938964844,
+                "High": 43.25,
+                "Low": 41.29999923706055,
+                "Close": 42.959999084472656,
+                "Volume": 46353,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f48362665528dd05765",
+        "symbol": "AFMC.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:20.311000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 110.08999633789062,
+                "High": 127.8499984741211,
+                "Low": 109.91000366210938,
+                "Close": 124.5,
+                "Volume": 395239,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f49362665528dd05766",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "AIFI.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:21.561000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 1.8600000143051147,
+                "High": 1.9299999475479126,
+                "Low": 1.809999942779541,
+                "Close": 1.8799999952316284,
+                "Volume": 7021480,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f4a362665528dd05767",
+        "symbol": "AJWA.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:22.585000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 200.8800048828125,
+                "High": 209.89999389648438,
+                "Low": 200.10000610351562,
+                "Close": 206.00999450683594,
+                "Volume": 40969,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f4a362665528dd05768",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "ALCN.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:22.855000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 31.09000015258789,
+                "High": 31.670000076293945,
+                "Low": 30.799999237060547,
+                "Close": 31.56999969482422,
+                "Volume": 187869,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f4c362665528dd05769",
+        "symbol": "ALUM.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:24.160000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 17.920000076293945,
+                "High": 18.350000381469727,
+                "Low": 17.850000381469727,
+                "Close": 18.15999984741211,
+                "Volume": 74526,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f4c362665528dd0576a",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "AMER.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:24.387000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 4.309999942779541,
+                "High": 4.409999847412109,
+                "Low": 4.199999809265137,
+                "Close": 4.360000133514404,
+                "Volume": 9515361,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f4c362665528dd0576b",
+        "symbol": "AMES.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:24.684000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 31.860000610351562,
+                "High": 33.79999923706055,
+                "Low": 32.52000045776367,
+                "Close": 33.099998474121094,
+                "Volume": 1715123,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f4c362665528dd0576c",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "AMIA.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:24.986000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 16.8700008392334,
+                "High": 17.25,
+                "Low": 16.799999237060547,
+                "Close": 17.200000762939453,
+                "Volume": 200450,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f4e362665528dd0576d",
+        "symbol": "AMOC.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:26.172000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 13.350000381469727,
+                "High": 14.15999984741211,
+                "Low": 13.300000190734863,
+                "Close": 14.0,
+                "Volume": 15618314,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f4e362665528dd0576e",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "AMPI.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:26.425000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 2.3499999046325684,
+                "High": 2.390000104904175,
+                "Low": 2.2799999713897705,
+                "Close": 2.3499999046325684,
+                "Volume": 39872,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f4f362665528dd0576f",
+        "symbol": "APSW.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:27.616000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 7.449999809265137,
+                "High": 7.590000152587891,
+                "Low": 7.400000095367432,
+                "Close": 7.449999809265137,
+                "Volume": 21561,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f4f362665528dd05770",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "ARAB.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:27.852000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 0.2409999966621399,
+                "High": 0.24300000071525574,
+                "Low": 0.23600000143051147,
+                "Close": 0.23899999260902405,
+                "Volume": 265223279,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f51362665528dd05771",
+        "symbol": "ARCC.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:29.332000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 63.52000045776367,
+                "High": 64.5,
+                "Low": 62.20000076293945,
+                "Close": 64.5,
+                "Volume": 265162,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f51362665528dd05772",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "AREH.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:29.584000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 1.0399999618530273,
+                "High": 1.0700000524520874,
+                "Low": 1.0299999713897705,
+                "Close": 1.059999942779541,
+                "Volume": 5832056,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f51362665528dd05773",
+        "symbol": "ASCM.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:29.806000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 42.27000045776367,
+                "High": 43.70000076293945,
+                "Low": 41.88999938964844,
+                "Close": 43.4900016784668,
+                "Volume": 76288,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f52362665528dd05774",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "ASPI.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:30.141000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 0.29499998688697815,
+                "High": 0.3050000071525574,
+                "Low": 0.2939999997615814,
+                "Close": 0.30300000309944153,
+                "Volume": 53349935,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f52362665528dd05775",
+        "symbol": "ATLC.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:30.455000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 4.769999980926514,
+                "High": 4.989999771118164,
+                "Low": 4.5,
+                "Close": 4.960000038146973,
+                "Volume": 920281,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f52362665528dd05776",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "ATQA.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:30.705000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 9.0,
+                "High": 9.199999809265137,
+                "Low": 8.899999618530273,
+                "Close": 9.050000190734863,
+                "Volume": 3652086,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f52362665528dd05777",
+        "symbol": "AXPH.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:30.999000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 1347.949951171875,
+                "High": 1430.0,
+                "Low": 1360.0,
+                "Close": 1391.8499755859375,
+                "Volume": 3098,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f53362665528dd05778",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "BIDI.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:31.286000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 2.119999885559082,
+                "High": 2.119999885559082,
+                "Low": 2.119999885559082,
+                "Close": 2.119999885559082,
+                "Volume": 0,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f53362665528dd05779",
+        "symbol": "BIGP.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:31.529000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 0.20600000023841858,
+                "High": 0.22599999606609344,
+                "Low": 0.19900000095367432,
+                "Close": 0.2240000069141388,
+                "Volume": 6474587,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f53362665528dd0577a",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "BINV.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:31.867000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 51.0,
+                "High": 53.38999938964844,
+                "Low": 51.20000076293945,
+                "Close": 52.52000045776367,
+                "Volume": 26222,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f54362665528dd0577b",
+        "symbol": "BIOC.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:32.154000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 281.0299987792969,
+                "High": 307.989990234375,
+                "Low": 285.1000061035156,
+                "Close": 290.70001220703125,
+                "Volume": 454814,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f55362665528dd0577c",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "BTFH.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:33.559000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 2.2300000190734863,
+                "High": 2.5,
+                "Low": 2.2200000286102295,
+                "Close": 2.359999895095825,
+                "Volume": 157727985,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f55362665528dd0577d",
+        "symbol": "CAED.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:33.879000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 86.95999908447266,
+                "High": 91.98999786376953,
+                "Low": 86.0199966430664,
+                "Close": 89.66000366210938,
+                "Volume": 132516,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f56362665528dd0577e",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "CANA.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:34.156000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 44.880001068115234,
+                "High": 46.9900016784668,
+                "Low": 44.54999923706055,
+                "Close": 46.5,
+                "Volume": 347061,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f56362665528dd0577f",
+        "symbol": "CCAP.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:34.385000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 6.039999961853027,
+                "High": 6.21999979019165,
+                "Low": 5.949999809265137,
+                "Close": 6.130000114440918,
+                "Volume": 83634290,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f56362665528dd05780",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "CCAPP.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:34.686000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 3.0199999809265137,
+                "High": 3.0199999809265137,
+                "Low": 3.0199999809265137,
+                "Close": 3.0199999809265137,
+                "Volume": 0,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f56362665528dd05781",
+        "symbol": "CCRS.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:34.984000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 1.590000033378601,
+                "High": 1.7400000095367432,
+                "Low": 1.600000023841858,
+                "Close": 1.659999966621399,
+                "Volume": 3742679,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f57362665528dd05782",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "CEFM.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:35.275000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 115.87000274658203,
+                "High": 128.0,
+                "Low": 110.0,
+                "Close": 118.16999816894531,
+                "Volume": 120271,
+                "Dividends": 5.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f57362665528dd05783",
+        "symbol": "CERA.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:35.620000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 1.0299999713897705,
+                "High": 1.0800000429153442,
+                "Low": 1.0099999904632568,
+                "Close": 1.059999942779541,
+                "Volume": 81058161,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f57362665528dd05784",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "CFGH.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:35.877000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 0.10100000351667404,
+                "High": 0.10100000351667404,
+                "Low": 0.10100000351667404,
+                "Close": 0.10100000351667404,
+                "Volume": 0,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f58362665528dd05785",
+        "symbol": "CICH.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:36.159000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 10.84000015258789,
+                "High": 10.979999542236328,
+                "Low": 10.350000381469727,
+                "Close": 10.609999656677246,
+                "Volume": 298712,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f58362665528dd05786",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "CIEB.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:36.444000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 22.469999313354492,
+                "High": 22.6299991607666,
+                "Low": 22.209999084472656,
+                "Close": 22.540000915527344,
+                "Volume": 133679,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f58362665528dd05787",
+        "symbol": "CIRA.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:36.727000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 34.31999969482422,
+                "High": 36.0,
+                "Low": 33.849998474121094,
+                "Close": 35.900001525878906,
+                "Volume": 486741,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f59362665528dd05788",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "CLHO.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:37.026000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 13.550000190734863,
+                "High": 13.729999542236328,
+                "Low": 13.5,
+                "Close": 13.569999694824219,
+                "Volume": 908256,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f59362665528dd05789",
+        "symbol": "CNFN.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:37.277000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 3.700000047683716,
+                "High": 3.75,
+                "Low": 3.630000114440918,
+                "Close": 3.7300000190734863,
+                "Volume": 2261109,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f59362665528dd0578a",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "COMI.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:37.591000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 119.9000015258789,
+                "High": 121.4800033569336,
+                "Low": 119.0,
+                "Close": 120.47000122070312,
+                "Volume": 4357823,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f59362665528dd0578b",
+        "symbol": "COPR.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:37.909000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 0.39500001072883606,
+                "High": 0.40400001406669617,
+                "Low": 0.3919999897480011,
+                "Close": 0.4000000059604645,
+                "Volume": 25118954,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f5a362665528dd0578c",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "COSG.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:38.179000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 1.2300000190734863,
+                "High": 1.2899999618530273,
+                "Low": 1.2100000381469727,
+                "Close": 1.2799999713897705,
+                "Volume": 6402767,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f5a362665528dd0578d",
+        "symbol": "CPCI.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:38.503000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 597.1699829101562,
+                "High": 620.0,
+                "Low": 600.010009765625,
+                "Close": 613.47998046875,
+                "Volume": 12894,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f5c362665528dd0578e",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "CSAG.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:40.804000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 32.25,
+                "High": 33.970001220703125,
+                "Low": 32.72999954223633,
+                "Close": 33.79999923706055,
+                "Volume": 234503,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f5d362665528dd0578f",
+        "symbol": "DAPH.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:41.076000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 76.38999938964844,
+                "High": 79.5,
+                "Low": 75.12999725341797,
+                "Close": 79.2300033569336,
+                "Volume": 184987,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f5e362665528dd05790",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "DEIN.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:42.333000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 10.350000381469727,
+                "High": 12.420000076293945,
+                "Low": 12.420000076293945,
+                "Close": 10.350000381469727,
+                "Volume": 5,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f5f362665528dd05791",
+        "symbol": "DOMT.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:43.690000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 22.440000534057617,
+                "High": 22.989999771118164,
+                "Low": 22.309999465942383,
+                "Close": 22.649999618530273,
+                "Volume": 79509,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f60362665528dd05792",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "DSCW.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:44.013000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 1.4700000286102295,
+                "High": 1.5,
+                "Low": 1.4500000476837158,
+                "Close": 1.5,
+                "Volume": 5044062,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f60362665528dd05793",
+        "symbol": "DTPP.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:44.317000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 43.09000015258789,
+                "High": 44.5,
+                "Low": 42.70000076293945,
+                "Close": 44.04999923706055,
+                "Volume": 426446,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f60362665528dd05794",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "EALR.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:44.601000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 257.6700134277344,
+                "High": 271.0,
+                "Low": 260.0,
+                "Close": 265.3699951171875,
+                "Volume": 15185,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f60362665528dd05795",
+        "symbol": "EASB.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:44.919000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 6.0,
+                "High": 6.190000057220459,
+                "Low": 5.820000171661377,
+                "Close": 6.079999923706055,
+                "Volume": 800965,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f61362665528dd05796",
+        "symbol": "EAST.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:45.190000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 31.799999237060547,
+                "High": 32.439998626708984,
+                "Low": 31.299999237060547,
+                "Close": 32.439998626708984,
+                "Volume": 847087,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f61362665528dd05797",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "EBSC.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:45.481000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 1.5199999809265137,
+                "High": 1.5800000429153442,
+                "Low": 1.4500000476837158,
+                "Close": 1.4800000190734863,
+                "Volume": 3705152,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f61362665528dd05798",
+        "symbol": "ECAP.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:45.764000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 26.489999771118164,
+                "High": 27.25,
+                "Low": 26.06999969482422,
+                "Close": 26.780000686645508,
+                "Volume": 64158,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f62362665528dd05799",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "EDFM.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:46.081000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 367.2300109863281,
+                "High": 390.0,
+                "Low": 366.0299987792969,
+                "Close": 376.04998779296875,
+                "Volume": 15635,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f62362665528dd0579a",
+        "symbol": "EEII.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:46.344000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 1.6100000143051147,
+                "High": 1.7000000476837158,
+                "Low": 1.5499999523162842,
+                "Close": 1.659999966621399,
+                "Volume": 5434373,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f62362665528dd0579b",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "EFIC.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:46.672000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 142.0,
+                "High": 143.35000610351562,
+                "Low": 140.0,
+                "Close": 141.75999450683594,
+                "Volume": 58400,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f62362665528dd0579c",
+        "symbol": "EFID.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:46.976000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 17.5,
+                "High": 17.959999084472656,
+                "Low": 17.5,
+                "Close": 17.75,
+                "Volume": 1737558,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f63362665528dd0579d",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "EFIH.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:47.264000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 22.020000457763672,
+                "High": 23.020000457763672,
+                "Low": 21.90999984741211,
+                "Close": 22.799999237060547,
+                "Volume": 1803397,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f63362665528dd0579e",
+        "symbol": "EGAL.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:47.629000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 303.010009765625,
+                "High": 306.0,
+                "Low": 301.010009765625,
+                "Close": 304.0,
+                "Volume": 118761,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f63362665528dd0579f",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "EGAS.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:47.977000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 46.720001220703125,
+                "High": 47.880001068115234,
+                "Low": 46.0,
+                "Close": 46.959999084472656,
+                "Volume": 51109,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f64362665528dd057a0",
+        "symbol": "EGBE.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:48.301000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 0.5099999904632568,
+                "High": 0.5099999904632568,
+                "Low": 0.5090000033378601,
+                "Close": 0.5099999904632568,
+                "Volume": 7500,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f64362665528dd057a1",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "EGCH.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:48.567000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 10.600000381469727,
+                "High": 10.75,
+                "Low": 10.449999809265137,
+                "Close": 10.520000457763672,
+                "Volume": 4005754,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f64362665528dd057a2",
+        "symbol": "EGREF.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:48.790000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 17.329999923706055,
+                "High": 18.3799991607666,
+                "Low": 17.209999084472656,
+                "Close": 18.229999542236328,
+                "Volume": 174596,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f65362665528dd057a3",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "EGS30AJ1C016-EGP.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:49.102000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-28",
+                "Open": 0.0,
+                "High": 12.479999542236328,
+                "Low": 12.479999542236328,
+                "Close": 12.479999542236328,
+                "Volume": 0,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f65362665528dd057a4",
+        "symbol": "EGS370O1C013.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:49.375000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 46.0099983215332,
+                "High": 46.93000030517578,
+                "Low": 45.02000045776367,
+                "Close": 45.400001525878906,
+                "Volume": 12432,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f65362665528dd057a5",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "EGS3I0S1C019.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:49.672000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 6.900000095367432,
+                "High": 7.46999979019165,
+                "Low": 6.849999904632568,
+                "Close": 7.400000095367432,
+                "Volume": 3184824,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f65362665528dd057a6",
+        "symbol": "EGS48271C018-EGP.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:49.919000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-28",
+                "Open": 0.0,
+                "High": 0.11999999731779099,
+                "Low": 0.11999999731779099,
+                "Close": 0.11999999731779099,
+                "Volume": 0,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f66362665528dd057a7",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "EGSA.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:50.247000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 8.8100004196167,
+                "High": 8.789999961853027,
+                "Low": 8.770000457763672,
+                "Close": 8.8100004196167,
+                "Volume": 500,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f66362665528dd057a8",
+        "symbol": "EGTS.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:50.523000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 12.020000457763672,
+                "High": 12.699999809265137,
+                "Low": 11.9399995803833,
+                "Close": 12.369999885559082,
+                "Volume": 1682591,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f67362665528dd057a9",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "EHDR.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:51.938000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 1.9500000476837158,
+                "High": 2.049999952316284,
+                "Low": 1.9299999475479126,
+                "Close": 2.0399999618530273,
+                "Volume": 4007430,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f6a362665528dd057aa",
+        "symbol": "ELEC.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:54.214000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 1.4800000190734863,
+                "High": 1.5399999618530273,
+                "Low": 1.4500000476837158,
+                "Close": 1.5299999713897705,
+                "Volume": 18498079,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f6a362665528dd057ab",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "ELKA.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:54.457000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 1.3700000047683716,
+                "High": 1.5,
+                "Low": 1.3600000143051147,
+                "Close": 1.440000057220459,
+                "Volume": 12499182,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f6a362665528dd057ac",
+        "symbol": "ELNA.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:54.711000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 37.779998779296875,
+                "High": 38.88999938964844,
+                "Low": 37.400001525878906,
+                "Close": 37.779998779296875,
+                "Volume": 3791,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f6b362665528dd057ad",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "ELSH.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:55.004000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 9.680000305175781,
+                "High": 10.289999961853027,
+                "Low": 9.510000228881836,
+                "Close": 10.149999618530273,
+                "Volume": 1215879,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f6b362665528dd057ae",
+        "symbol": "ELWA.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:55.229000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 1.649999976158142,
+                "High": 1.5700000524520874,
+                "Low": 1.5700000524520874,
+                "Close": 1.5700000524520874,
+                "Volume": 208182,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f6b362665528dd057af",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "EMFD.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:55.498000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 11.680000305175781,
+                "High": 11.9399995803833,
+                "Low": 11.40999984741211,
+                "Close": 11.800000190734863,
+                "Volume": 2505916,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f6b362665528dd057b0",
+        "symbol": "ENGC.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:55.773000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 33.88999938964844,
+                "High": 37.0,
+                "Low": 33.04999923706055,
+                "Close": 36.0,
+                "Volume": 603980,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f6c362665528dd057b1",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "EOSB.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:56.032000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 1.6100000143051147,
+                "High": 1.6699999570846558,
+                "Low": 1.5800000429153442,
+                "Close": 1.6100000143051147,
+                "Volume": 105678,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f6c362665528dd057b2",
+        "symbol": "EPCO.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:56.343000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 7.730000019073486,
+                "High": 7.96999979019165,
+                "Low": 7.730000019073486,
+                "Close": 7.869999885559082,
+                "Volume": 336125,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f6c362665528dd057b3",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "EPPK.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:56.619000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 9.779999732971191,
+                "High": 9.779999732971191,
+                "Low": 9.779999732971191,
+                "Close": 9.779999732971191,
+                "Volume": 0,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f6c362665528dd057b4",
+        "symbol": "ETEL.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:56.905000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 122.12000274658203,
+                "High": 124.30000305175781,
+                "Low": 120.0999984741211,
+                "Close": 120.0999984741211,
+                "Volume": 1587374,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f6d362665528dd057b5",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "ETRS.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:57.211000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 10.399999618530273,
+                "High": 10.550000190734863,
+                "Low": 10.369999885559082,
+                "Close": 10.399999618530273,
+                "Volume": 1749386,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f6d362665528dd057b6",
+        "symbol": "EXPA.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:57.483000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 13.699999809265137,
+                "High": 14.100000381469727,
+                "Low": 13.699999809265137,
+                "Close": 14.029999732971191,
+                "Volume": 371146,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f6d362665528dd057b7",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "FAIT.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:57.803000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 43.06999969482422,
+                "High": 43.70000076293945,
+                "Low": 43.29999923706055,
+                "Close": 43.34000015258789,
+                "Volume": 41228,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f6e362665528dd057b8",
+        "symbol": "FAITA.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:58.115000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 1.0,
+                "High": 0.9990000128746033,
+                "Low": 0.9890000224113464,
+                "Close": 0.9990000128746033,
+                "Volume": 6670,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f6f362665528dd057b9",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "FERC.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:59.427000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 61.02000045776367,
+                "High": 63.0,
+                "Low": 59.970001220703125,
+                "Close": 62.939998626708984,
+                "Volume": 78073,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f6f362665528dd057ba",
+        "symbol": "FIRE.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:11:59.706000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 4.03000020980835,
+                "High": 4.079999923706055,
+                "Low": 3.9000000953674316,
+                "Close": 4.03000020980835,
+                "Volume": 23796,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f70362665528dd057bb",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "FNAR.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:00.047000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 9.199999809265137,
+                "High": 9.670000076293945,
+                "Low": 8.460000038146973,
+                "Close": 9.449999809265137,
+                "Volume": 165307,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f70362665528dd057bc",
+        "symbol": "FTNS.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:00.333000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 1.0499999523162842,
+                "High": 1.0499999523162842,
+                "Low": 1.0099999904632568,
+                "Close": 1.0499999523162842,
+                "Volume": 186381,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f70362665528dd057bd",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "FWRY.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:00.609000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 17.0,
+                "High": 17.280000686645508,
+                "Low": 16.799999237060547,
+                "Close": 17.049999237060547,
+                "Volume": 13950161,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f70362665528dd057be",
+        "symbol": "GBCO.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:00.971000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 23.020000457763672,
+                "High": 23.700000762939453,
+                "Low": 23.020000457763672,
+                "Close": 23.299999237060547,
+                "Volume": 1496988,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f71362665528dd057bf",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "GDWA.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:01.216000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 0.5329999923706055,
+                "High": 0.5619999766349792,
+                "Low": 0.5260000228881836,
+                "Close": 0.5580000281333923,
+                "Volume": 41870995,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f71362665528dd057c0",
+        "symbol": "GGCC.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:01.520000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 0.5339999794960022,
+                "High": 0.5559999942779541,
+                "Low": 0.5350000262260437,
+                "Close": 0.5450000166893005,
+                "Volume": 23546827,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f72362665528dd057c1",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "GIHD.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:02.698000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 39.02000045776367,
+                "High": 41.599998474121094,
+                "Low": 38.0,
+                "Close": 40.849998474121094,
+                "Volume": 266393,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f72362665528dd057c2",
+        "symbol": "GMCI.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:02.926000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 1.4800000190734863,
+                "High": 1.4800000190734863,
+                "Low": 1.409999966621399,
+                "Close": 1.409999966621399,
+                "Volume": 359668,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f75362665528dd057c3",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "GPPL.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:05.037000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 1.399999976158142,
+                "High": 1.399999976158142,
+                "Low": 1.399999976158142,
+                "Close": 1.399999976158142,
+                "Volume": 0,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f75362665528dd057c4",
+        "symbol": "GRCA.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:05.352000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 26.010000228881836,
+                "High": 27.350000381469727,
+                "Low": 25.25,
+                "Close": 26.239999771118164,
+                "Volume": 195129,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f75362665528dd057c5",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "GSSC.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:05.617000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 246.55999755859375,
+                "High": 258.0,
+                "Low": 246.57000732421875,
+                "Close": 255.3699951171875,
+                "Volume": 3166,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f77362665528dd057c6",
+        "symbol": "GTWL.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:07.743000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 95.98999786376953,
+                "High": 107.9000015258789,
+                "Low": 93.0,
+                "Close": 104.5999984741211,
+                "Volume": 1910681,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f79362665528dd057c7",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "HDBK.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:09.750000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 95.41999816894531,
+                "High": 97.4000015258789,
+                "Low": 94.25,
+                "Close": 97.0999984741211,
+                "Volume": 211643,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f7a362665528dd057c8",
+        "symbol": "HELI.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:10.024000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 6.25,
+                "High": 6.550000190734863,
+                "Low": 6.150000095367432,
+                "Close": 6.46999979019165,
+                "Volume": 12194988,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f7a362665528dd057c9",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "HRHO.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:10.324000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 23.799999237060547,
+                "High": 24.100000381469727,
+                "Low": 23.559999465942383,
+                "Close": 23.600000381469727,
+                "Volume": 1320601,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f7a362665528dd057ca",
+        "symbol": "IBCT.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:10.548000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 10.279999732971191,
+                "High": 10.75,
+                "Low": 10.100000381469727,
+                "Close": 10.569999694824219,
+                "Volume": 69707,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f7a362665528dd057cb",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "ICFC.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:10.782000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 21.579999923706055,
+                "High": 23.0,
+                "Low": 21.5,
+                "Close": 22.899999618530273,
+                "Volume": 1557344,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f7b362665528dd057cc",
+        "symbol": "ICID.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:11.002000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 17.0,
+                "High": 17.799999237060547,
+                "Low": 16.950000762939453,
+                "Close": 17.709999084472656,
+                "Volume": 258534,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f7b362665528dd057cd",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "ICLE.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:11.261000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 15.760000228881836,
+                "High": 15.760000228881836,
+                "Low": 15.760000228881836,
+                "Close": 15.760000228881836,
+                "Volume": 0,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f7b362665528dd057ce",
+        "symbol": "IDRE.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:11.554000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 34.310001373291016,
+                "High": 36.9900016784668,
+                "Low": 33.29999923706055,
+                "Close": 36.58000183105469,
+                "Volume": 264539,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f7b362665528dd057cf",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "IEEC.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:11.805000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 0.6399999856948853,
+                "High": 0.7099999785423279,
+                "Low": 0.640999972820282,
+                "Close": 0.7059999704360962,
+                "Volume": 37592050,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f7c362665528dd057d0",
+        "symbol": "IFAP.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:12.060000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 16.459999084472656,
+                "High": 16.829999923706055,
+                "Low": 16.399999618530273,
+                "Close": 16.75,
+                "Volume": 252660,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f7c362665528dd057d1",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "INEG.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:12.289000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 0.49900001287460327,
+                "High": 0.5170000195503235,
+                "Low": 0.48500001430511475,
+                "Close": 0.5130000114440918,
+                "Volume": 31626761,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f7c362665528dd057d2",
+        "symbol": "INFI.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:12.522000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 113.9000015258789,
+                "High": 117.87999725341797,
+                "Low": 114.0,
+                "Close": 115.0199966430664,
+                "Volume": 75165,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f7d362665528dd057d3",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "IRON.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:13.640000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 24.989999771118164,
+                "High": 25.170000076293945,
+                "Low": 24.149999618530273,
+                "Close": 24.56999969482422,
+                "Volume": 410132,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f7d362665528dd057d4",
+        "symbol": "ISMA.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:13.888000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 18.719999313354492,
+                "High": 19.489999771118164,
+                "Low": 18.299999237060547,
+                "Close": 19.299999237060547,
+                "Volume": 462634,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f7e362665528dd057d5",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "ISMQ.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:14.183000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 6.599999904632568,
+                "High": 6.739999771118164,
+                "Low": 6.510000228881836,
+                "Close": 6.650000095367432,
+                "Volume": 1428211,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f7e362665528dd057d6",
+        "symbol": "ISPH.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:14.463000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 9.859999656677246,
+                "High": 10.069999694824219,
+                "Low": 9.800000190734863,
+                "Close": 9.989999771118164,
+                "Volume": 5776000,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f7e362665528dd057d7",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "JUFO.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:14.812000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 23.0,
+                "High": 23.299999237060547,
+                "Low": 22.5,
+                "Close": 23.299999237060547,
+                "Volume": 1362534,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f7f362665528dd057d8",
+        "symbol": "KABO.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:15.120000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 6.460000038146973,
+                "High": 6.619999885559082,
+                "Low": 6.340000152587891,
+                "Close": 6.550000190734863,
+                "Volume": 1670437,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f82362665528dd057d9",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "KWIN.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:18.239000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 52.040000915527344,
+                "High": 57.0,
+                "Low": 51.83000183105469,
+                "Close": 54.970001220703125,
+                "Volume": 151102,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f82362665528dd057da",
+        "symbol": "KZPC.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:18.586000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 12.600000381469727,
+                "High": 12.899999618530273,
+                "Low": 12.600000381469727,
+                "Close": 12.869999885559082,
+                "Volume": 359219,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f82362665528dd057db",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "LCSW.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:18.819000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 35.72999954223633,
+                "High": 36.75,
+                "Low": 35.20000076293945,
+                "Close": 36.470001220703125,
+                "Volume": 1007276,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f83362665528dd057dc",
+        "symbol": "LUTS.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:19.850000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 0.6349999904632568,
+                "High": 0.6769999861717224,
+                "Low": 0.6050000190734863,
+                "Close": 0.6639999747276306,
+                "Volume": 114572442,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f84362665528dd057dd",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "MAAL.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:20.129000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 6.260000228881836,
+                "High": 6.989999771118164,
+                "Low": 6.25,
+                "Close": 6.900000095367432,
+                "Volume": 1984021,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f84362665528dd057de",
+        "symbol": "MASR.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:20.441000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 6.360000133514404,
+                "High": 6.989999771118164,
+                "Low": 6.269999980926514,
+                "Close": 6.929999828338623,
+                "Volume": 12952979,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f84362665528dd057df",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "MBEG.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:20.712000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 4.690000057220459,
+                "High": 5.269999980926514,
+                "Low": 4.369999885559082,
+                "Close": 5.050000190734863,
+                "Volume": 12098653,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f84362665528dd057e0",
+        "symbol": "MBSC.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:20.976000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 297.0,
+                "High": 304.94000244140625,
+                "Low": 293.6000061035156,
+                "Close": 301.9800109863281,
+                "Volume": 133489,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f85362665528dd057e1",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "MCQE.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:21.250000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 163.47999572753906,
+                "High": 168.5,
+                "Low": 161.0,
+                "Close": 167.85000610351562,
+                "Volume": 188080,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f85362665528dd057e2",
+        "symbol": "MCRO.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:21.571000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 1.2699999809265137,
+                "High": 1.340000033378601,
+                "Low": 1.2799999713897705,
+                "Close": 1.3300000429153442,
+                "Volume": 43754004,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f85362665528dd057e3",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "MEGM.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:21.829000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 12.539999961853027,
+                "High": 12.539999961853027,
+                "Low": 12.539999961853027,
+                "Close": 12.539999961853027,
+                "Volume": 0,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f86362665528dd057e4",
+        "symbol": "MENA.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:22.070000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 5.699999809265137,
+                "High": 5.880000114440918,
+                "Low": 5.519999980926514,
+                "Close": 5.619999885559082,
+                "Volume": 93645,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f86362665528dd057e5",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "MEPA.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:22.292000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 1.25,
+                "High": 1.3200000524520874,
+                "Low": 1.2599999904632568,
+                "Close": 1.2899999618530273,
+                "Volume": 26757758,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f86362665528dd057e6",
+        "symbol": "MFPC.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:22.553000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 46.0,
+                "High": 46.290000915527344,
+                "Low": 44.810001373291016,
+                "Close": 44.849998474121094,
+                "Volume": 1193680,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f86362665528dd057e7",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "MFSC.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:22.818000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 32.790000915527344,
+                "High": 33.79999923706055,
+                "Low": 32.0099983215332,
+                "Close": 33.41999816894531,
+                "Volume": 48560,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f87362665528dd057e8",
+        "symbol": "MHOT.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:23.134000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 14.029999732971191,
+                "High": 15.300000190734863,
+                "Low": 14.050000190734863,
+                "Close": 15.300000190734863,
+                "Volume": 285838,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f87362665528dd057e9",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "MICH.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:23.408000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 40.56999969482422,
+                "High": 41.439998626708984,
+                "Low": 40.5,
+                "Close": 40.540000915527344,
+                "Volume": 56654,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f87362665528dd057ea",
+        "symbol": "MILS.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:23.725000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 118.68000030517578,
+                "High": 132.0,
+                "Low": 117.0,
+                "Close": 125.12999725341797,
+                "Volume": 188997,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f87362665528dd057eb",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "MIPH.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:23.979000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 749.8200073242188,
+                "High": 758.0,
+                "Low": 750.0,
+                "Close": 750.0499877929688,
+                "Volume": 2696,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f88362665528dd057ec",
+        "symbol": "MISR.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:24.257000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 5.510000228881836,
+                "High": 5.510000228881836,
+                "Low": 5.510000228881836,
+                "Close": 5.510000228881836,
+                "Volume": 0,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f88362665528dd057ed",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "MMAT.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:24.682000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 4.340000152587891,
+                "High": 4.53000020980835,
+                "Low": 4.199999809265137,
+                "Close": 4.460000038146973,
+                "Volume": 136774,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f88362665528dd057ee",
+        "symbol": "MOED.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:24.907000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 0.45899999141693115,
+                "High": 0.4749999940395355,
+                "Low": 0.4490000009536743,
+                "Close": 0.4729999899864197,
+                "Volume": 30821266,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f89362665528dd057ef",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "MOIL.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:25.203000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 0.6449999809265137,
+                "High": 0.6539999842643738,
+                "Low": 0.6449999809265137,
+                "Close": 0.6499999761581421,
+                "Volume": 53432,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f89362665528dd057f0",
+        "symbol": "MOIN.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:25.472000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 27.959999084472656,
+                "High": 28.84000015258789,
+                "Low": 27.100000381469727,
+                "Close": 28.739999771118164,
+                "Volume": 144960,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f89362665528dd057f1",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "MOSC.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:25.748000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 241.00999450683594,
+                "High": 241.99000549316406,
+                "Low": 236.89999389648438,
+                "Close": 239.22000122070312,
+                "Volume": 3592,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f8a362665528dd057f2",
+        "symbol": "MPCI.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:26.069000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 289.0,
+                "High": 335.0,
+                "Low": 310.1000061035156,
+                "Close": 326.0,
+                "Volume": 544405,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f8a362665528dd057f3",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "MPCO.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:26.316000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 1.7799999713897705,
+                "High": 1.8200000524520874,
+                "Low": 1.75,
+                "Close": 1.809999942779541,
+                "Volume": 27824493,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f8a362665528dd057f4",
+        "symbol": "MPRC.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:26.577000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 31.299999237060547,
+                "High": 32.4900016784668,
+                "Low": 30.799999237060547,
+                "Close": 32.06999969482422,
+                "Volume": 152347,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f8a362665528dd057f5",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "MTIE.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:26.857000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 7.019999980926514,
+                "High": 7.059999942779541,
+                "Low": 6.900000095367432,
+                "Close": 7.0,
+                "Volume": 1222773,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f8b362665528dd057f6",
+        "symbol": "NAHO.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:27.117000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 0.12800000607967377,
+                "High": 0.12800000607967377,
+                "Low": 0.12700000405311584,
+                "Close": 0.12800000607967377,
+                "Volume": 35926,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f8d362665528dd057f7",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "NCCW.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:29.199000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 4.989999771118164,
+                "High": 5.289999961853027,
+                "Low": 5.0,
+                "Close": 5.190000057220459,
+                "Volume": 3455521,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f8e362665528dd057f8",
+        "symbol": "NDRL.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:30.442000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 4.690000057220459,
+                "High": 4.690000057220459,
+                "Low": 4.690000057220459,
+                "Close": 4.690000057220459,
+                "Volume": 0,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f8e362665528dd057f9",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "NEDA.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:30.689000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 2.5999999046325684,
+                "High": 2.490000009536743,
+                "Low": 2.4700000286102295,
+                "Close": 2.4700000286102295,
+                "Volume": 156587,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f8e362665528dd057fa",
+        "symbol": "NHPS.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:30.945000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 54.06999969482422,
+                "High": 57.900001525878906,
+                "Low": 54.0099983215332,
+                "Close": 56.02000045776367,
+                "Volume": 133691,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f8f362665528dd057fb",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "NINH.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:31.198000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 14.800000190734863,
+                "High": 15.420000076293945,
+                "Low": 14.800000190734863,
+                "Close": 15.079999923706055,
+                "Volume": 543071,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f8f362665528dd057fc",
+        "symbol": "NIPH.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:31.453000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 254.5,
+                "High": 305.3999938964844,
+                "Low": 263.0,
+                "Close": 283.0,
+                "Volume": 669597,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f8f362665528dd057fd",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "OBRI.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:31.705000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 21.639999389648438,
+                "High": 23.049999237060547,
+                "Low": 21.209999084472656,
+                "Close": 22.93000030517578,
+                "Volume": 585350,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f8f362665528dd057fe",
+        "symbol": "OCDI.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:31.941000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 23.549999237060547,
+                "High": 23.989999771118164,
+                "Low": 23.40999984741211,
+                "Close": 23.709999084472656,
+                "Volume": 614937,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f90362665528dd057ff",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "OCPH.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:32.199000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 180.47000122070312,
+                "High": 195.0,
+                "Low": 182.0,
+                "Close": 184.63999938964844,
+                "Volume": 31710,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f90362665528dd05800",
+        "symbol": "ODIN.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:32.539000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 1.9199999570846558,
+                "High": 2.130000114440918,
+                "Low": 1.9199999570846558,
+                "Close": 2.0899999141693115,
+                "Volume": 8055934,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f90362665528dd05801",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "OFH.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:32.821000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 0.6930000185966492,
+                "High": 0.7099999785423279,
+                "Low": 0.6949999928474426,
+                "Close": 0.699999988079071,
+                "Volume": 13098731,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f91362665528dd05802",
+        "symbol": "OIH.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:33.052000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 1.6100000143051147,
+                "High": 1.6699999570846558,
+                "Low": 1.600000023841858,
+                "Close": 1.6699999570846558,
+                "Volume": 16715501,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f91362665528dd05803",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "OLFI.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:33.357000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 18.90999984741211,
+                "High": 19.170000076293945,
+                "Low": 18.899999618530273,
+                "Close": 19.1299991607666,
+                "Volume": 245340,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f91362665528dd05804",
+        "symbol": "ORAS.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:33.610000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 71.05000305175781,
+                "High": 71.05000305175781,
+                "Low": 71.05000305175781,
+                "Close": 71.05000305175781,
+                "Volume": 0,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f91362665528dd05805",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "ORHD.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:33.862000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 9.550000190734863,
+                "High": 10.069999694824219,
+                "Low": 9.569999694824219,
+                "Close": 9.899999618530273,
+                "Volume": 9033231,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f92362665528dd05806",
+        "symbol": "ORWE.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:34.168000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 23.100000381469727,
+                "High": 23.469999313354492,
+                "Low": 23.1200008392334,
+                "Close": 23.34000015258789,
+                "Volume": 907562,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f93362665528dd05807",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "PHAR.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:35.443000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 98.19999694824219,
+                "High": 105.0,
+                "Low": 99.0,
+                "Close": 102.56999969482422,
+                "Volume": 1289095,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f93362665528dd05808",
+        "symbol": "PHDC.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:35.746000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 11.350000381469727,
+                "High": 11.680000305175781,
+                "Low": 11.300000190734863,
+                "Close": 11.399999618530273,
+                "Volume": 3918638,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f95362665528dd05809",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "PHTV.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:37.193000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 325.1400146484375,
+                "High": 327.0,
+                "Low": 319.1000061035156,
+                "Close": 319.1000061035156,
+                "Volume": 1021,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f95362665528dd0580a",
+        "symbol": "POUL.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:37.513000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 9.479999542236328,
+                "High": 9.640000343322754,
+                "Low": 9.40999984741211,
+                "Close": 9.550000190734863,
+                "Volume": 3955950,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f9b362665528dd0580b",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "PRCL.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:43.419000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 19.56999969482422,
+                "High": 20.579999923706055,
+                "Low": 19.0,
+                "Close": 19.979999542236328,
+                "Volume": 1077133,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f9b362665528dd0580c",
+        "symbol": "PRDC.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:43.721000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 6.070000171661377,
+                "High": 6.199999809265137,
+                "Low": 6.0,
+                "Close": 6.159999847412109,
+                "Volume": 2501294,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f9b362665528dd0580d",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "PRMH.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:43.962000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 1.840000033378601,
+                "High": 1.9199999570846558,
+                "Low": 1.840000033378601,
+                "Close": 1.8799999952316284,
+                "Volume": 1635072,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f9d362665528dd0580e",
+        "symbol": "RACC.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:45.375000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 7.130000114440918,
+                "High": 7.300000190734863,
+                "Low": 7.050000190734863,
+                "Close": 7.21999979019165,
+                "Volume": 540818,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f9d362665528dd0580f",
+        "symbol": "RAKT.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:45.671000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 21.389999389648438,
+                "High": 22.440000534057617,
+                "Low": 20.399999618530273,
+                "Close": 21.389999389648438,
+                "Volume": 9537,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f9d362665528dd05810",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "RAYA.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:45.935000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 5.460000038146973,
+                "High": 5.599999904632568,
+                "Low": 5.360000133514404,
+                "Close": 5.599999904632568,
+                "Volume": 1956028,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f9e362665528dd05811",
+        "symbol": "RKAZ.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:46.169000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 4.090000152587891,
+                "High": 4.300000190734863,
+                "Low": 3.740000009536743,
+                "Close": 4.090000152587891,
+                "Volume": 25589,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f9e362665528dd05812",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "RMDA.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:46.456000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 5.019999980926514,
+                "High": 5.230000019073486,
+                "Low": 5.050000190734863,
+                "Close": 5.199999809265137,
+                "Volume": 4155458,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f9f362665528dd05813",
+        "symbol": "ROTO.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:47.536000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 29.0,
+                "High": 30.700000762939453,
+                "Low": 28.700000762939453,
+                "Close": 30.700000762939453,
+                "Volume": 288297,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f9f362665528dd05814",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "RREI.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:47.763000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 2.390000104904175,
+                "High": 2.6700000762939453,
+                "Low": 2.4000000953674316,
+                "Close": 2.6500000953674316,
+                "Volume": 10105803,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62f9f362665528dd05815",
+        "symbol": "RTVC.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:47.981000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 2.869999885559082,
+                "High": 2.9000000953674316,
+                "Low": 2.7699999809265137,
+                "Close": 2.8399999141693115,
+                "Volume": 3100570,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62fa0362665528dd05816",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "RUBX.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:48.200000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 12.470000267028809,
+                "High": 13.1899995803833,
+                "Low": 12.109999656677246,
+                "Close": 12.819999694824219,
+                "Volume": 4715768,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62fa0362665528dd05817",
+        "symbol": "SAIB.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:48.503000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 2.5299999713897705,
+                "High": 2.5299999713897705,
+                "Low": 2.5299999713897705,
+                "Close": 2.5299999713897705,
+                "Volume": 0,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62fa0362665528dd05818",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "SAUD.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:48.754000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 20.760000228881836,
+                "High": 21.1200008392334,
+                "Low": 20.110000610351562,
+                "Close": 20.56999969482422,
+                "Volume": 411503,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62fa1362665528dd05819",
+        "symbol": "SCEM.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:49.053000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 82.91000366210938,
+                "High": 85.23999786376953,
+                "Low": 82.0,
+                "Close": 84.26000213623047,
+                "Volume": 217218,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62fa1362665528dd0581a",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "SCFM.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:49.312000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 193.97000122070312,
+                "High": 226.0,
+                "Low": 186.0,
+                "Close": 209.2899932861328,
+                "Volume": 26563,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62fa1362665528dd0581b",
+        "symbol": "SCTS.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:49.576000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 495.8900146484375,
+                "High": 515.0,
+                "Low": 471.010009765625,
+                "Close": 488.19000244140625,
+                "Volume": 12373,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62fa1362665528dd0581c",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "SDTI.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:49.859000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 80.4000015258789,
+                "High": 89.0,
+                "Low": 79.5,
+                "Close": 83.0,
+                "Volume": 221691,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62fa2362665528dd0581d",
+        "symbol": "SEIG.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:50.176000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 155.33999633789062,
+                "High": 186.39999389648438,
+                "Low": 149.57000732421875,
+                "Close": 186.39999389648438,
+                "Volume": 31879,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62fa2362665528dd0581e",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "SEIGA.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:50.441000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 63.290000915527344,
+                "High": 63.290000915527344,
+                "Low": 63.290000915527344,
+                "Close": 63.290000915527344,
+                "Volume": 0,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62fa2362665528dd0581f",
+        "symbol": "SIPC.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:50.671000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 4.53000020980835,
+                "High": 4.739999771118164,
+                "Low": 4.599999904632568,
+                "Close": 4.699999809265137,
+                "Volume": 7854645,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62fa2362665528dd05820",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "SKPC.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:50.926000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 14.619999885559082,
+                "High": 15.140000343322754,
+                "Low": 14.5,
+                "Close": 15.0,
+                "Volume": 3198728,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62fa3362665528dd05821",
+        "symbol": "SMFR.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:51.182000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 180.05999755859375,
+                "High": 189.49000549316406,
+                "Low": 180.0,
+                "Close": 186.14999389648438,
+                "Volume": 8037,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62fa4362665528dd05822",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "SNFC.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:52.417000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 10.380000114440918,
+                "High": 10.8100004196167,
+                "Low": 10.279999732971191,
+                "Close": 10.8100004196167,
+                "Volume": 1585768,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62fa5362665528dd05823",
+        "symbol": "SPHT.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:53.676000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 1.4199999570846558,
+                "High": 1.4199999570846558,
+                "Low": 1.4199999570846558,
+                "Close": 1.4199999570846558,
+                "Volume": 0,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62fa5362665528dd05824",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "SPIN.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:53.933000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 14.170000076293945,
+                "High": 14.390000343322754,
+                "Low": 14.050000190734863,
+                "Close": 14.319999694824219,
+                "Volume": 97210,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62fa6362665528dd05825",
+        "symbol": "SPMD.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:54.154000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 0.335999995470047,
+                "High": 0.3499999940395355,
+                "Low": 0.33500000834465027,
+                "Close": 0.3449999988079071,
+                "Volume": 63187173,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62fa7362665528dd05826",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "SUGR.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:55.313000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 49.58000183105469,
+                "High": 50.189998626708984,
+                "Low": 48.900001525878906,
+                "Close": 49.0,
+                "Volume": 342509,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62fa7362665528dd05827",
+        "symbol": "SVCE.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:55.566000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 8.399999618530273,
+                "High": 8.739999771118164,
+                "Low": 8.260000228881836,
+                "Close": 8.699999809265137,
+                "Volume": 2879171,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62fa7362665528dd05828",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "SWDY.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:55.814000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 113.0,
+                "High": 114.0,
+                "Low": 111.0,
+                "Close": 112.25,
+                "Volume": 411031,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62fa8362665528dd05829",
+        "symbol": "TALM.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:56.037000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 19.09000015258789,
+                "High": 19.68000030517578,
+                "Low": 18.25,
+                "Close": 19.31999969482422,
+                "Volume": 623325,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62faa362665528dd0582a",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "TMGH.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:12:58.019000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 80.1500015258789,
+                "High": 81.5,
+                "Low": 79.4000015258789,
+                "Close": 80.4000015258789,
+                "Volume": 3518409,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62fac362665528dd0582b",
+        "symbol": "TRTO.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:13:00.147000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 0.054999999701976776,
+                "High": 0.05700000002980232,
+                "Low": 0.05700000002980232,
+                "Close": 0.054999999701976776,
+                "Volume": 3400,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62fae362665528dd0582c",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "UEFM.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:13:02.868000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 446.2200012207031,
+                "High": 474.67999267578125,
+                "Low": 446.2200012207031,
+                "Close": 449.6300048828125,
+                "Volume": 7406,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62faf362665528dd0582d",
+        "symbol": "UEGC.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:13:03.189000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 1.3899999856948853,
+                "High": 1.4600000381469727,
+                "Low": 1.3799999952316284,
+                "Close": 1.4299999475479126,
+                "Volume": 25171786,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62faf362665528dd0582e",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "UNIP.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:13:03.491000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 0.28299999237060547,
+                "High": 0.2919999957084656,
+                "Low": 0.27900001406669617,
+                "Close": 0.2879999876022339,
+                "Volume": 28423351,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62faf362665528dd0582f",
+        "symbol": "UNIT.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:13:03.812000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 17.0,
+                "High": 17.799999237060547,
+                "Low": 16.8799991607666,
+                "Close": 17.760000228881836,
+                "Volume": 106322,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62fb7362665528dd05830",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "WCDF.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:13:11.287000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 481.05999755859375,
+                "High": 514.97998046875,
+                "Low": 481.0,
+                "Close": 498.8399963378906,
+                "Volume": 7862,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62fb7362665528dd05831",
+        "symbol": "WKOL.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:13:11.541000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 232.9499969482422,
+                "High": 245.0,
+                "Low": 231.5500030517578,
+                "Close": 241.27999877929688,
+                "Volume": 27643,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62fb7362665528dd05832",
+        "source": "yahoo_finance_live_batch",
+        "session_date": "2026-10-31",
+        "symbol": "ZEOT.CA",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:13:11.831000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 10.279999732971191,
+                "High": 10.539999961853027,
+                "Low": 10.199999809265137,
+                "Close": 10.470000267028809,
+                "Volume": 274169,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    },
+    {
+        "_id": "6ae62fb8362665528dd05833",
+        "symbol": "ZMID.CA",
+        "session_date": "2026-10-31",
+        "source": "yahoo_finance_live_batch",
+        "airflow_run_id": "csv_driven_extraction_001",
+        "extraction_mode": "incremental",
+        "ingested_at": "2026-10-31T18:13:12.143000",
+        "raw_payload": [
+            {
+                "Date": "2026-10-29",
+                "Open": 6.309999942779541,
+                "High": 6.789999961853027,
+                "Low": 6.260000228881836,
+                "Close": 6.630000114440918,
+                "Volume": 17178821,
+                "Dividends": 0.0,
+                "Stock Splits": 0.0,
+                "Capital Gains": 0.0
+            }
+        ],
+        "record_count": 1
+    }
+]
