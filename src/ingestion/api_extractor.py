@@ -68,6 +68,6 @@ if __name__ == "__main__":
     
     extractor = YahooBatchExtractor()
     
-    csv_path = "data/historical/ALL_divadj.csv"
+    csv_path = "data/bronze/ALL_divadj.csv"
     
     extractor.run_pipeline_for_csv(csv_path, period="1d")
