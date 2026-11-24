@@ -8,8 +8,8 @@ Python → Kafka → MongoDB (bronze) → PySpark (silver) → SQL Server star s
 |---|---|
 | `kafka-live-ingestion/` | Kafka broker (Docker), producer (Yahoo → Kafka), consumer (Kafka → Mongo) |
 | `src/ingestion/` | Batch API extractor and Mongo helper |
-| `src/transformation/Transform.py` | Spark: Mongo (API + Kafka docs) → silver parquet |
-| `src/Incremental_Load/load_merged.py` | silver → `gold.fact_daily_price` (MERGE, idempotent) |
+| `src/transformation/transform.py` | Spark: Mongo (API + Kafka docs) → silver parquet |
+| `src/incremental_Load/load_merged.py` | silver → `gold.fact_daily_price` (MERGE, idempotent) |
 | `sql/` | DDL (`ddl/`) and ELT (`elt/`) scripts for `EGX_Warehouse` |
 | `dbt-transformations/` | dbt metrics (daily return, drawdown, volatility, rebased 100…) |
 | `src/export/` | Writes metrics CSVs for Power BI |
