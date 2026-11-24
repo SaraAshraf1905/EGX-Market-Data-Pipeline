@@ -1,0 +1,24 @@
+version: 2
+models:
+  - name: metric_daily_return
+    description: "Daily % change of adjusted close per symbol."
+    columns:
+      - name: daily_return
+        description: "(close_t / close_t-1) - 1. NULL on a symbol's first day."
+  - name: metric_rebased_100
+    description: "Adjusted close rebased to 100 at each symbol's first date."
+  - name: metric_volatility_30d
+    description: "Annualized rolling stdev of daily returns (window set by var vol_window_days)."
+  - name: metric_drawdown
+    description: "Distance below running peak; always <= 0."
+    columns:
+      - name: drawdown
+        tests: [not_null]
+  - name: metric_monthly_return
+    description: "Month-end to month-end return per symbol."
+  - name: metric_compare_rebased
+    description: "All symbols rebased to 100 from one common start date."
+  - name: metric_symbol_list
+    description: "Symbol, company name and asset class for Power BI slicers."
+  - name: metric_savings_protection
+    description: "Optional: adds gold-in-EGP and USD/EGP. Built only if enable_gold_fx is true."
