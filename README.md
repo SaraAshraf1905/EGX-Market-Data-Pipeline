@@ -24,8 +24,3 @@ Python → Kafka → MongoDB (bronze) → PySpark (silver) → SQL Server star s
 5. Metrics: `cd dbt-transformations`, then `dbt run` and `dbt test`.
 6. Power BI CSVs: `python src/export/export_metrics_csv.py` (writes to `exports/`), then Refresh in Power BI.
 
-Airflow orchestration is the next step and is not implemented yet.
-
-## Known limits
-- Gold, silver and USD/EGP are not in `gold.dim_symbol` yet, so only `.CA` stocks and EGX30 flow through.
-- Inflation data was dropped from the project scope.
