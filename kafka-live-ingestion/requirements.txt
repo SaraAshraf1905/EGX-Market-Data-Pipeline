@@ -1,0 +1,6 @@
+# Python 3.10 or newer
+confluent-kafka>=2.5,<3     # Kafka client (producer + consumer)
+pymongo>=4.7,<5             # MongoDB client
+yfinance>=0.2.40            # Yahoo Finance API (same library as the historical downloader)
+python-dotenv>=1.0          # reads the .env file
+tzdata                      # time zone database (needed on Windows for Africa/Cairo)

@@ -1,0 +1,49 @@
+# One Yahoo Finance ticker per line. Lines starting with # are ignored.
+# Source: the team's download manifest (yahoo_egx_daily + yahoo_macro).
+
+# --- 35 EGX stocks (Yahoo returned data for all of them) ---
+COMI.CA
+TMGH.CA
+SWDY.CA
+ETEL.CA
+EAST.CA
+EGAL.CA
+MFPC.CA
+ALCN.CA
+EFIH.CA
+ABUK.CA
+FWRY.CA
+HRHO.CA
+ORWE.CA
+PHDC.CA
+ADIB.CA
+HDBK.CA
+CIEB.CA
+JUFO.CA
+ORHD.CA
+SUGR.CA
+AMOC.CA
+SCEM.CA
+ISPH.CA
+CLHO.CA
+RMDA.CA
+MTIE.CA
+PHAR.CA
+EFID.CA
+EMFD.CA
+SKPC.CA
+CCAP.CA
+OCDI.CA
+BTFH.CA
+ORAS.CA
+MICH.CA
+
+# --- Macro (gold, silver, USD/EGP) ---
+GC=F
+SI=F
+EGP=X
+
+# --- Not included on purpose ---
+# AUTO.CA, EKHO.CA, ESRS.CA, QNBE.CA, UBEE.CA  -> Yahoo returns no data for them (see missing_tickers.txt)
+# Optional EGX30 index on Yahoo (check it works first, see the guide): remove the # to enable
+# ^CASE30

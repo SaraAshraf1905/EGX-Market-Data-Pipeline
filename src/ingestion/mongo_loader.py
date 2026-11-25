@@ -1,8 +1,9 @@
+import os
 from datetime import datetime, timezone
 from pymongo import MongoClient, errors
 
 class MongoRawLoader:
-    def __init__(self, mongo_uri="mongodb://localhost:27017/", db_name="egx_raw_db"):
+    def __init__(self, mongo_uri=os.getenv("MONGO_URI", "mongodb://localhost:27017/"), db_name=os.getenv("API_MONGO_DB", "egx_raw_db")):
         self.client = MongoClient(mongo_uri, serverSelectionTimeoutMS=5000)
         self.db = self.client[db_name]
         

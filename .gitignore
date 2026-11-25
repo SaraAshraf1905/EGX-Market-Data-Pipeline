@@ -1,0 +1,20 @@
+# secrets
+.env
+profiles.yml
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+# data and outputs (too big / regenerated)
+data/
+exports/
+logs/
+# dbt
+dbt-transformations/target/
+dbt-transformations/dbt_packages/
+dbt-transformations/logs/
+# editors / OS
+.vscode/
+.idea/
+.DS_Store

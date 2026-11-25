@@ -3,11 +3,13 @@ from pathlib import Path
 
 os.environ["PYSPARK_PYTHON"] = sys.executable
 os.environ["PYSPARK_DRIVER_PYTHON"] = sys.executable
-os.environ["HADOOP_HOME"] = r"C:\hadoop"
-os.environ["PATH"] += os.pathsep + r"C:\hadoop\bin"
+if os.name == "nt":  # Windows only; inside Docker (Linux) these are not needed
+    os.environ["HADOOP_HOME"] = os.getenv("HADOOP_HOME", r"C:\hadoop")
+    os.environ["PATH"] += os.pathsep + os.path.join(os.environ["HADOOP_HOME"], "bin")
 
 
 import json
+from datetime import datetime
 from bson import json_util
 from pymongo import MongoClient
 from pyspark.sql import SparkSession
@@ -17,18 +19,48 @@ from pyspark.sql.functions import (
 )
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
-SILVER_PATH = str(PROJECT_ROOT / "data" / "silver" / "fact_daily_price")
+SILVER_PATH = os.getenv("SILVER_PATH", str(PROJECT_ROOT / "data" / "silver" / "fact_daily_price"))
 
-MONGO_URI = "mongodb://localhost:27017"
-DB_NAME = "egx_raw_db"             
-COLL_NAME = "api_raw_responses"    
+MONGO_URI = os.getenv("MONGO_URI", "mongodb://localhost:27017")
+DB_NAME = os.getenv("API_MONGO_DB", "egx_raw_db")
+COLL_NAME = os.getenv("API_MONGO_COLLECTION", "api_raw_responses")
+# Live candles written by the Kafka consumer (kafka-live-ingestion)
+KAFKA_DB = os.getenv("MONGO_DB", "market_raw")
+KAFKA_COLL = os.getenv("MONGO_COLLECTION", "live_prices")
+# Must equal the key in SOURCE_CONFIG of load_merged.py, so live data uses the SAME source_key
+LIVE_SOURCE_NAME = "yahoo_finance_live_batch"
+
+
+def kafka_to_legacy(k):
+    """Convert one Kafka/Mongo candle into the shape of an api_raw_responses document,
+    so the rest of this script handles both sources the same way."""
+    # Trading date = first 10 chars of bar_time (market-timezone date), NOT the UTC date.
+    trade_date = str(k.get("bar_time") or k["bar_time_utc"])[:10]
+    fetched = datetime.fromisoformat(str(k["fetched_at_utc"]).replace("Z", "+00:00"))
+    return {
+        "_id": k["_id"],
+        "source": LIVE_SOURCE_NAME,
+        "symbol": k["symbol"],
+        "ingested_at": fetched,
+        "airflow_run_id": "kafka_live",
+        "raw_payload": [{
+            "Date": trade_date, "Open": k.get("open"), "High": k.get("high"),
+            "Low": k.get("low"), "Close": k.get("close"), "Volume": k.get("volume"),
+        }],
+    }
 
 
 
 client = MongoClient(MONGO_URI, serverSelectionTimeoutMS=5000)
 coll = client[DB_NAME][COLL_NAME]
 
-docs = list(coll.find({"processed": {"$ne": True}}))
+legacy_docs = list(coll.find({"processed": {"$ne": True}}))
+kafka_coll = client[KAFKA_DB][KAFKA_COLL]
+# Only EGX stocks (.CA) for now: gold / silver / USD-EGP are not in gold.dim_symbol yet.
+kafka_docs = list(kafka_coll.find({"processed": {"$ne": True}, "interval": "1d",
+                                   "symbol": {"$regex": r"\.CA$"}}))
+docs = legacy_docs + [kafka_to_legacy(k) for k in kafka_docs]
+print("API documents:", len(legacy_docs), "| Kafka live candles:", len(kafka_docs))
 print("Documents to process:", len(docs))
 
 if not docs:
@@ -37,7 +69,8 @@ if not docs:
     raise SystemExit(0)
 
 
-ids = [d["_id"] for d in docs]
+ids = [d["_id"] for d in legacy_docs]
+kafka_ids = [k["_id"] for k in kafka_docs]
 
 json_lines = []
 for d in docs:
@@ -120,6 +153,7 @@ fact_df.write.mode("overwrite") \
     .parquet(SILVER_PATH)
 
 coll.update_many({"_id": {"$in": ids}}, {"$set": {"processed": True}})
+kafka_coll.update_many({"_id": {"$in": kafka_ids}}, {"$set": {"processed": True}})
 
 print("Done. Silver rows:", fact_df.count())
 client.close()

@@ -1,0 +1,31 @@
+name: egx_metrics
+version: "1.0.0"
+config-version: 2
+profile: egx_warehouse
+
+model-paths: ["models"]
+test-paths: ["tests"]
+target-path: "target"
+clean-targets: ["target", "dbt_packages"]
+
+vars:
+  # Names below come from your EGX_Warehouse.bak (symbol column of gold.dim_symbol).
+  index_symbol: "EGX30"
+  # Gold / USD-EGP are NOT in the warehouse yet. Set to true only after they are loaded
+  # into gold.fact_daily_price, and fix the two symbols to what dim_symbol shows.
+  enable_gold_fx: false
+  gold_symbol: "GC=F"
+  fx_symbol: "EGP=X"
+  # Common start date so every asset is rebased from the same day
+  compare_start_date: "2023-01-01"
+  trading_days_per_year: 252
+  vol_window_days: 30
+
+models:
+  egx_metrics:
+    staging:
+      +materialized: view
+      +schema: dbt_staging
+    metrics:
+      +materialized: view
+      +schema: metrics

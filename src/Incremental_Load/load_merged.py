@@ -3,8 +3,9 @@ from pathlib import Path
 
 os.environ["PYSPARK_PYTHON"] = sys.executable
 os.environ["PYSPARK_DRIVER_PYTHON"] = sys.executable
-os.environ["HADOOP_HOME"] = r"C:\hadoop"
-os.environ["PATH"] += os.pathsep + r"C:\hadoop\bin"
+if os.name == "nt":  # Windows only; inside Docker (Linux) these are not needed
+    os.environ["HADOOP_HOME"] = os.getenv("HADOOP_HOME", r"C:\hadoop")
+    os.environ["PATH"] += os.pathsep + os.path.join(os.environ["HADOOP_HOME"], "bin")
 
 import traceback
 from datetime import datetime
@@ -17,13 +18,20 @@ from pyspark.sql.functions import (
 
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
-SILVER_PATH = str(PROJECT_ROOT / "data" / "silver" / "fact_daily_price")
+SILVER_PATH = os.getenv("SILVER_PATH", str(PROJECT_ROOT / "data" / "silver" / "fact_daily_price"))
 
+# Connection settings come from environment variables (see .env.example).
+# Without SQL_USER the Windows login is used (works on your PC, NOT inside Docker).
+_server = os.getenv("SQLSERVER_HOST", "localhost")
+_port = os.getenv("SQLSERVER_PORT", "1433")
+_db = os.getenv("SQLSERVER_DB", "EGX_Warehouse")
+_user = os.getenv("SQL_USER", "")
+_auth = (f"UID={_user};PWD={os.getenv('SQL_PASSWORD', '')};" if _user else "Trusted_Connection=yes;")
 CONN_STR = (
     "DRIVER={ODBC Driver 18 for SQL Server};"
-    "SERVER=localhost;"
-    "DATABASE=EGX_Warehouse;"
-    "Trusted_Connection=yes;"
+    f"SERVER={_server},{_port};"
+    f"DATABASE={_db};"
+    + _auth +
     "Encrypt=yes;"
     "TrustServerCertificate=yes;"
 )

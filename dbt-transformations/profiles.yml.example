@@ -1,0 +1,16 @@
+# Copy to ~/.dbt/profiles.yml (NOT into the repo). Passwords come from env vars.
+egx_warehouse:
+  target: dev
+  outputs:
+    dev:
+      type: sqlserver
+      driver: "ODBC Driver 18 for SQL Server"
+      server: "{{ env_var('DBT_SQL_SERVER', 'localhost') }}"
+      port: 1433
+      database: EGX_Warehouse
+      schema: dbo
+      user: "{{ env_var('DBT_SQL_USER') }}"
+      password: "{{ env_var('DBT_SQL_PASSWORD') }}"
+      encrypt: true
+      trust_cert: true
+      threads: 4

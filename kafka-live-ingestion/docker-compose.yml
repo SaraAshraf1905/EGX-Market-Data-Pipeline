@@ -1,0 +1,82 @@
+# Kafka (single broker, KRaft mode = no ZooKeeper) + optional MongoDB + optional web UI.
+#
+#   docker compose up -d                       -> Kafka + topic creation
+#   docker compose --profile mongo up -d       -> + MongoDB (skip if you already run MongoDB on port 27017)
+#   docker compose --profile ui up -d          -> + Kafka UI at http://localhost:8090
+#   docker compose down                        -> stop (data is kept)
+#   docker compose down -v                     -> stop AND delete all data (full reset)
+#
+# Two listeners exist on purpose:
+#   kafka:29092      used by other containers (Kafka UI, kafka-init)
+#   localhost:9092   used by Python scripts running on your computer
+
+services:
+  kafka:
+    image: apache/kafka:3.7.0
+    container_name: egx-kafka
+    ports:
+      - "9092:9092"
+    environment:
+      KAFKA_NODE_ID: 1
+      KAFKA_PROCESS_ROLES: broker,controller
+      KAFKA_CONTROLLER_LISTENER_NAMES: CONTROLLER
+      KAFKA_CONTROLLER_QUORUM_VOTERS: 1@kafka:9093
+      CLUSTER_ID: yv_HDxg2TReKZNvB_cDI7A   # fixed KRaft cluster id (22 characters), so restarts keep their data
+      KAFKA_LISTENERS: PLAINTEXT://0.0.0.0:29092,CONTROLLER://0.0.0.0:9093,PLAINTEXT_HOST://0.0.0.0:9092
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:29092,PLAINTEXT_HOST://localhost:9092
+      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: CONTROLLER:PLAINTEXT,PLAINTEXT:PLAINTEXT,PLAINTEXT_HOST:PLAINTEXT
+      KAFKA_INTER_BROKER_LISTENER_NAME: PLAINTEXT
+      KAFKA_AUTO_CREATE_TOPICS_ENABLE: "false"        # topics are created explicitly (kafka-init)
+      KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1       # one broker -> replication factor 1
+      KAFKA_TRANSACTION_STATE_LOG_REPLICATION_FACTOR: 1
+      KAFKA_TRANSACTION_STATE_LOG_MIN_ISR: 1
+      KAFKA_GROUP_INITIAL_REBALANCE_DELAY_MS: 0
+    volumes:
+      - kafka_data:/var/lib/kafka/data
+    healthcheck:
+      test: ["CMD-SHELL", "/opt/kafka/bin/kafka-topics.sh --bootstrap-server localhost:29092 --list"]
+      interval: 10s
+      timeout: 10s
+      retries: 10
+
+  # Runs once, creates the topic, then exits.
+  kafka-init:
+    image: apache/kafka:3.7.0
+    container_name: egx-kafka-init
+    depends_on:
+      kafka:
+        condition: service_healthy
+    restart: "no"
+    entrypoint: ["/bin/sh", "-c"]
+    command:
+      - >
+        /opt/kafka/bin/kafka-topics.sh --bootstrap-server kafka:29092 --create --if-not-exists
+        --topic ${KAFKA_TOPIC:-prod.yahoo.egx_prices.v1}
+        --partitions 3 --replication-factor 1
+        --config retention.ms=604800000
+
+  mongo:
+    image: mongo:7
+    container_name: egx-mongo
+    profiles: ["mongo"]
+    ports:
+      - "127.0.0.1:27017:27017"     # reachable only from your own computer
+    volumes:
+      - mongo_data:/data/db         # development setup: no password
+
+  kafka-ui:
+    image: provectuslabs/kafka-ui:v0.7.2
+    container_name: egx-kafka-ui
+    profiles: ["ui"]
+    depends_on:
+      kafka:
+        condition: service_healthy
+    ports:
+      - "8090:8080"
+    environment:
+      KAFKA_CLUSTERS_0_NAME: local
+      KAFKA_CLUSTERS_0_BOOTSTRAPSERVERS: kafka:29092
+
+volumes:
+  kafka_data:
+  mongo_data:

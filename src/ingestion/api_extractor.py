@@ -18,7 +18,7 @@ class YahooBatchExtractor:
         print(f"Found {len(symbols)} unique symbols in the file.")
         return symbols
 
-    def fetch_and_store_stock(self, symbol: str, period="1d"):
+    def fetch_and_store_stock(self, symbol: str, period="5d"):
         
         yahoo_symbol = f"{symbol}.CA" if not symbol.endswith(".CA") else symbol
         print(f"Fetching data for {yahoo_symbol}...")
@@ -53,7 +53,7 @@ class YahooBatchExtractor:
             print(f"[ERROR] Failed to fetch or store data for {yahoo_symbol}: {e}")
             return False
 
-    def run_pipeline_for_csv(self, csv_file_path, period="1d"):
+    def run_pipeline_for_csv(self, csv_file_path, period="5d"):
         
         symbols = self.get_symbols_from_csv(csv_file_path)
         
@@ -70,4 +70,4 @@ if __name__ == "__main__":
     
     csv_path = "data/bronze/ALL_divadj.csv"
     
-    extractor.run_pipeline_for_csv(csv_path, period="1d")
+    extractor.run_pipeline_for_csv(csv_path, period="5d")
