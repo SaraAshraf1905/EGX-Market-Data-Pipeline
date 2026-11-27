@@ -1,0 +1,28 @@
+FROM apache/airflow:2.10.5
+
+USER root
+
+RUN apt-get update && \
+    ACCEPT_EULA=Y apt-get install -y --no-install-recommends \
+    git default-jre-headless \
+    unixodbc \
+    unixodbc-dev \
+    libgssapi-krb5-2 \
+    msodbcsql18 && \
+    rm -rf /var/lib/apt/lists/*
+
+USER airflow
+
+RUN python -m pip install --no-cache-dir \
+    "pyspark==3.5.5"
+
+RUN python -m venv /home/airflow/dbt-env
+
+RUN /home/airflow/dbt-env/bin/pip install \
+    --no-cache-dir \
+    "dbt-core>=1.8,<1.9" \
+    "dbt-sqlserver==1.8.6"
+
+ENV PATH="/home/airflow/dbt-env/bin:/home/airflow/.local/bin:${PATH}"
+
+RUN dbt --version
